@@ -5,18 +5,66 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL",
     "suborganismo": "",
-    "tipo": "Concursodeméritos",
-    "texto": "Ordende28deoctubrede2026,delConsejerodePresidencia,JusticiayAdministraciónLocal,porlaqueseapruebaconvocatoriapúblicaparalaprovisiónde varios puestos de trabajo vacantes en la Consejería de Presidencia, Justicia y AdministraciónLocalporelprocedimientodeConcursodeMéritos",
+    "tipo": "Concurso de méritos",
+    "texto": "Orden de 28 de octubre de 2026, del Consejero de Presidencia, Justicia y Administración Local, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Presidencia, Justicia y Administración Local por el procedimiento de Concurso de Méritos",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 34897 CONSEJERIA PRESIDENCIA; Cuerpo Escala Especialidad Admon 95991 CONSEJERIA PRESIDENCIA; Cuerpo Escala Especialidad Admon 95992 CONSEJERIA PRESIDENCIA",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "B/C (equivale a A2/C1), B (equivale a A2)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
-      "sistema": "concurso de méritos, libre designación",
-      "plazo": "No consta en el texto"
+      "nivel": "Nivel CD 22, Nivel CD 20",
+      "plazas": "3 puestos",
+      "sistema": "concurso de méritos",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de la convocatoria",
+      "puestos": [
+        {
+          "codigo": "34897",
+          "denominacion": "Subsec. apoyo administrativo ii",
+          "unidad": "Consejeria Presidencia, Justicia y Administración Local Viceconsejeria Presidencia y Administración Local Direccion General Atención Al Ciudadano y Transparencia Subdireccion General Transparencia y Gobierno Abierto Area Transparencia y Participación Subseccion Apoyo Administrativo Ii",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "95991",
+          "denominacion": "Arquitecto tecnico",
+          "unidad": "Consejeria Presidencia, Justicia y Administración Local Viceconsejeria Presidencia y Administración Local Direccion General Reequilibrio Territorial Subdireccion General Estrategia Territorial Area Cooperacion Local",
+          "grupo": "B (equivale a A2)",
+          "nivel_cd": "20",
+          "especifico": "7.888,80 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Ingenieros y Arquitectos Técnicos Arquitectura Técnica (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "95992",
+          "denominacion": "Arquitecto tecnico",
+          "unidad": "Consejeria Presidencia, Justicia y Administración Local Viceconsejeria Presidencia y Administración Local Direccion General Reequilibrio Territorial Subdireccion General Estrategia Territorial Area Cooperacion Local",
+          "grupo": "B (equivale a A2)",
+          "nivel_cd": "20",
+          "especifico": "7.888,80 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Ingenieros y Arquitectos Técnicos Arquitectura Técnica (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-3.PDF"
   },
@@ -26,18 +74,37 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Ordende27deoctubrede2026,delaConsejeradeEconomía,HaciendayEmpleo,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndeunpuestode trabajovacanteenlaConsejeríadeEconomía,HaciendayEmpleoporelprocedimientodeLibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 27 de octubre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 21849 CONSEJERIA ECONOMÍA",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
+      "nivel": "Nivel CD 29",
+      "plazas": "1 puesto",
       "sistema": "libre designación",
-      "plazo": "No consta en el texto"
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "21849",
+          "denominacion": "Jefe de area de aceleradora de inversiones",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Economía y Empleo Direccion General Economía e Industria Subdireccion General Análisis Regulatorio e Internacionalización Area Aceleradora de Inversiones",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "29",
+          "especifico": "42.716,04 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Superior de Gestión (Admon G)",
+            "Técnicos Superiores de Salud Pública Veterinaria (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Conocimiento y experiencia en la tramitación de procedimientos vinculados a la atracción de · Inversiones y desarrollo de proyectos estratégicos. · Experiencia en la interlocución con administraciones públicas y agentes económicos y · Empresariales. · Experiencia en la elaboración de propuestas para órganos colegiados, así como sus · Convocatorias y acuerdos. · Experiencia en la coordinación y seguimiento de expedientes que requieran la participación · Simultánea de distintos centros directivos de la comunidad de madrid. · Experiencia en dirección y coordinación de equipos de trabajo."
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-4.PDF"
   },
@@ -47,18 +114,37 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "01116202-MCOB CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Ordende28deoctubrede2026,delaConsejeradeEconomía,HaciendayEmpleo,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndeunpuestode trabajovacanteenlaConsejeríadeEconomía,HaciendayEmpleoporelprocedimientodeLibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 28 de octubre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 49826 CONSEJERIA ECONOMÍA",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
+      "nivel": "Nivel CD 29",
+      "plazas": "1 puesto",
       "sistema": "libre designación",
-      "plazo": "No consta en el texto"
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "49826",
+          "denominacion": "Interventor delegado",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Intervencion General Secretaría General",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "29",
+          "especifico": "42.716,04 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Ingenieros y Arquitectos Superiores Ingeniería Superior Ord.rural e Ind.agr. (Admon E)",
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Superior de Gestión (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en el ejercicio de la función interventora en la comprobacion material del gasto · Experiencia en el estudio, elaboración de proyectos y certificaciones de obras públicas · Experiencia en la supervisión de la ejecución de contratos de obras y de servicios"
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-5.PDF"
   },
@@ -68,18 +154,53 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Orden de 29 de octubre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Economía, Hacienda y EmpleoporelprocedimientodeLibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 29 de octubre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 1144 CONSEJERIA ECONOMÍA; Cuerpo Escala Especialidad Admon 76349 CONSEJERIA ECONOMÍA",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "B/C (equivale a A2/C1), C/D (equivale a C1/C2)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
+      "nivel": "Nivel CD 22, Nivel CD 18",
+      "plazas": "2 puestos",
       "sistema": "libre designación",
-      "plazo": "No consta en el texto"
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "1144",
+          "denominacion": "Jefe de secretaria de alto cargo",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Secretaria General Tecnica",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "14.219,64 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)",
+            "Equivalente"
+          ],
+          "localidad": "Madrid",
+          "jornada": "PED Y AL - 2TA",
+          "perfil": "Experiencia en el desempeño de tareas de secretaría de alto cargo · Experiencia en registro, archivo y correspondencia · Experiencia en organización de reuniones, atención de visitas y planificación de agenda"
+        },
+        {
+          "codigo": "76349",
+          "denominacion": "Secretaria/o de direccion",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Recursos Humanos",
+          "grupo": "C/D (equivale a C1/C2)",
+          "nivel_cd": "18",
+          "especifico": "13.295,16 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Administrativos de Administración General (Admon G)",
+            "Auxiliares de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "P.E.D.Y 2 TARD",
+          "perfil": "Experiencia en el desempeño de tareas de secretaría de alto cargo · Experiencia en registro, archivo y correspondencia · Experiencia en organización de reuniones, atención de visitas y planificación de agenda"
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-6.PDF"
   },
@@ -89,18 +210,38 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Ordende29deoctubrede2026,delaConsejeradeEconomía,HaciendayEmpleo,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndeunpuestode trabajovacanteenlaConsejeríadeCultura,TurismoyDeporte,deconformidad conelartículo55delaLey1/1986,de10deabril,delaFunciónPúblicadelaComunidaddeMadrid,porelprocedimientodeLibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 29 de octubre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Cultura, Turismo y Deporte, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 32567 CONSEJERIA CULTURA",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
+      "nivel": "Nivel CD 26",
+      "plazas": "1 puesto",
       "sistema": "libre designación",
-      "plazo": "No consta en el texto"
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "32567",
+          "denominacion": "Consejeria tecnico de apoyo deporte viceconsejeria turismo direccion subdireccion programas area federado",
+          "unidad": "Cultura, Turismo y Cultura, y Deporte General Deportes General Deportivos Programas de Deporte",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Superior de Gestión (Admon G)",
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Equivalente"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA Y 2 TARD",
+          "perfil": "Experiencia en la ejecución y seguimiento de convenios, especialmente con · Federaciones deportivas. · Experiencia en el diseño de disposiciones, órdenes y resoluciones relativas · A normativa reguladora sobre ayudas y subvenciones especialmente · Vinculadas a la promoción deportiva y el deporte para todos. · Baremación de expedientes deportivos. · Experiencia en el desarrollo de programas deportivos. · Tramitación de expedientes administrativos."
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-8.PDF"
   },
@@ -110,18 +251,52 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Ordende29deoctubrede2026,delaConsejeradeEconomía,HaciendayEmpleo,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndeunpuestode trabajo vacante en la Consejería de Medio Ambiente, Agricultura e Interior (AgenciadeSeguridadyEmergenciasMadrid112),deconformidadconelartículo55delaLey1/1986,de10deabril,delaFunciónPúblicadelaComunidadde Madrid,porelprocedimientodeLibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 29 de octubre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Agricultura e Interior (Agencia de Seguridad y Emergencias Madrid 112), de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 51205 ENTE PÚBLICO AGENCIA DE A/B 26 29",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
+      "nivel": "Nivel CD 26",
+      "plazas": "2 puestos",
       "sistema": "libre designación",
-      "plazo": "No consta en el texto"
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "51205",
+          "denominacion": "Ente serv. incendios seguridad",
+          "unidad": "Público Agencia de y Emergencias Madrid",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "29.304,60 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [],
+          "localidad": "",
+          "jornada": "",
+          "perfil": ""
+        },
+        {
+          "codigo": "112",
+          "denominacion": "Forestales iii direccion jefatura unidad operacional servicio forestales",
+          "unidad": "General Emergencias Cuerpo de Bomberos Tecnica de Apoyo de Incendios Iii",
+          "grupo": "",
+          "nivel_cd": "",
+          "especifico": "",
+          "procedencia": "INGENIERÍA SUPERIOR",
+          "cuerpos": [
+            "Ingenieros y Arquitectos Superiores Arquitectura Superior (Admon E)",
+            "Ingenieros y Arquitectos Técnicos Ingeniería Técnica (Admon E)",
+            "Ingenieros y Arquitectos Técnicos (Admon E)",
+            "Arquitectura Técnica",
+            "Equivalente"
+          ],
+          "localidad": "Rozas de Madrid, Las",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en materia de planificación y dirección de trabajos preventivos · Y campañas de extinción de incendios forestales. · Experiencia en supervisión y dirección de encargos de obras y servicios a · Empresas públicas. · Experiencia en tramitación de autorizaciones de uso del fuego y de · Maquinaria en el medio natural. · Experiencia en coordinación y dirección de emergencias de incendios · Forestales. · Experiencia en dirección, coordinación y organización de equipos de · Trabajo. · Conocimiento en materia de igualdad, violencia de género o prevención de · Cualquier tipo de acoso sexual o por razón de sexo."
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-9.PDF"
   },
@@ -131,18 +306,36 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Orden4743/2026,de29deoctubre,delaConsejeradeEducación,CienciayUniversidades, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades,porelprocedimientodeLibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden 4743/2026, de 29 de octubre, de la Consejera de Educación, Ciencia y Universidades, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 41107 CONSEJERIA EDUCACIÓN",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "B/C (equivale a A2/C1)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
+      "nivel": "Nivel CD 22",
+      "plazas": "1 puesto",
       "sistema": "libre designación",
-      "plazo": "dequince días hábiles"
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "41107",
+          "denominacion": "Jefe de secretaria de alto cargo",
+          "unidad": "Consejeria Educación, Ciencia y Universidades Viceconsejeria Política y Organización Educativa Direccion del Area Territorial de Madrid-capital",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "14.219,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "PED Y AL - 2TA",
+          "perfil": "- conocimiento y experiencia en el manejo de word, excel, access, powerpoint, correo · Electrónico e internet. · - experiencia en el desempeño de tareas de secretaría. · - experiencia en manejo y planificación de agenda electrónica, organización de reuniones y · Atención a visitas.. · - experiencia en registro y archivo de documentación y correspondencia."
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-20.PDF"
   },
@@ -152,18 +345,36 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Orden4764/2026,de30deoctubre,delaConsejeradeEducación,CienciayUniversidades, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades,porelprocedimientodeLibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden 4764/2026, de 30 de octubre, de la Consejera de Educación, Ciencia y Universidades, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 64009 CONSEJERIA EDUCACIÓN",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "B/C (equivale a A2/C1)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
-      "sistema": "concurso de méritos, libre designación",
-      "plazo": "No consta en el texto"
+      "nivel": "Nivel CD 22",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "64009",
+          "denominacion": "Jefe de secretaria de viceconsejero",
+          "unidad": "Consejeria Educación, Ciencia y Universidades Viceconsejeria Política y Organización Educativa",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "16.096,80 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "PED Y AL - 2TA",
+          "perfil": "- experiencia en labores propias de secretaría de altos cargos. · - experiencia en organización de despacho, redacción de correo, preparación de reuniones y · Gestión de agenda. · - experiencia en atención telefónica y presencial · - conocimiento del paquete ofimatico de la comunidad de madrid, asi como de las aplicaciones · Ereg, note, orve, portafirmas electrónico y portal de transparencia."
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-21.PDF"
   },
@@ -173,18 +384,85 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE VIVIENDA, TRANSPORTES E INFRAESTRUCTURAS",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Orden de 29 de octubre de 2026, del Consejero de Vivienda, Transportes e Infraestructuras,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndevarios puestosdetrabajovacantesenlaConsejeríadeVivienda,TransporteseInfraestructuras,porelprocedimientodeLibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 29 de octubre de 2026, del Consejero de Vivienda, Transportes e Infraestructuras, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Vivienda, Transportes e Infraestructuras, por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 3116 CONSEJERIA VIVIENDA; Cuerpo Escala Especialidad Admon 32218 CONSEJERIA VIVIENDA; Cuerpo Escala Especialidad Admon 37013 CONSEJERIA VIVIENDA; Cuerpo Escala Especialidad Admon 76666 CONSEJERIA VIVIENDA",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2), A (equivale a A1)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
+      "nivel": "Nivel CD 26, Nivel CD 30",
+      "plazas": "4 puestos",
       "sistema": "libre designación",
-      "plazo": "No consta en el texto"
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "3116",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Consejeria Vivienda, Transportes e Infraestructuras Secretaria General Tecnica Subdireccion General Regimen Juridico Area Contratacion Administrativa",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Equivalente"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en tramitación y gestión de expedientes de contratación administrativa. · Experiencia en tramitación y gestión de expedientes económico presupuestarios. · Experiencia en la elaboración de informes, especialmente en materia de contratación · Administrativa."
+        },
+        {
+          "codigo": "32218",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Consejeria Vivienda, Transportes e Infraestructuras Secretaria General Tecnica Subdireccion General Regimen Juridico Area Contratacion Administrativa",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Superior de Gestión (Admon G)",
+            "Técnicos de Gestión de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en tramitación y gestión de expedientes de contratación administrativa. · Experiencia en tramitación y gestión de expedientes económico presupuestarios. · Experiencia en la elaboración de informes, especialmente en materia de contratación · Administrativa."
+        },
+        {
+          "codigo": "37013",
+          "denominacion": "Jefe de division de conservacion y emergencias",
+          "unidad": "Consejeria Vivienda, Transportes e Infraestructuras Viceconsejeria Vivienda, Transportes e Infraestructuras Direccion General Carreteras Subdireccion General Seguridad Viaria y Conservación División Conservacion y Emergencias",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "30",
+          "especifico": "44.539,92 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Ingenieros y Arquitectos Superiores Ingeniería Superior C.infr.op.tr.ur y Ot (Admon E)",
+            "Equivalente"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Ingeniero de caminos, canales y puertos o título de máster equivalente. · Experiencia en la dirección y coordinación de actividades y equipos de conservación integral de · Carreteras. · Experiencia en la gestión de emergencias y situaciones de crisis que afecten a la red viaria. · Experiencia en la planificación y coordinación de la vialidad invernal y de las actuaciones · Derivadas de fenómenos meteorológicos adversos. · Experiencia en la gestión operativa del centro de coordinación de incidencias de carreteras y · En la coordinación de los recursos destinados a la atención de incidencias en carreteras. · Experiencia en redacción de pliegos de prescripciones técnicas, gestión de contratos públicos, · Tramitación y dirección de obras de emergencia y dirección de equipos técnicos · Multidisciplinares."
+        },
+        {
+          "codigo": "76666",
+          "denominacion": "Subdirector general de vivienda protegida y rehabilitacion",
+          "unidad": "Consejeria Vivienda, Transportes e Infraestructuras Viceconsejeria Vivienda, Transportes e Infraestructuras Direccion General Vivienda y Rehabilitacion Subdireccion General Vivienda Protegida y Rehabilitación",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "30",
+          "especifico": "47.862,72 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en la elaboración del anteproyecto de presupuesto y en el seguimiento y control de · La ejecución presupuestaria. · Experiencia en la elaboración y tramitación de proyectos normativos, planes estratégicos, · Órdenes de bases y convocatorias de subvenciones de planes estatales de viviendas. · Experiencia en coordinación, gestión, seguimiento y control de subvenciones derivadas de · Programas financiados con fondos estatales y europeos. · Experiencia en gestión y tramitación de procedimientos en materia de vivienda protegida y · Rehabilitación. · Experiencia en dirección y coordinación de equipos de trabajo."
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-22.PDF"
   },
@@ -194,18 +472,35 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE SANIDAD",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Orden 1691/2026, de 27 de octubre, de la Consejera de Sanidad, por la que se apruebaconvocatoriapúblicaparalaprovisióndeunpuestodetrabajovacanteen laConsejeríadeSanidad,porelprocedimientodeLibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden 1691/2026, de 27 de octubre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 52003 CONSEJERIA SANIDAD A 29 42",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
+      "nivel": "Nivel CD 29",
+      "plazas": "1 puesto",
       "sistema": "libre designación",
-      "plazo": "No consta en el texto"
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "52003",
+          "denominacion": "Jefe de area de recursos y documentacion",
+          "unidad": "Consejeria Sanidad Secretaria General Tecnica División de Organizacion, Recursos y Documentacion Area de Recursos y Documentacion",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "29",
+          "especifico": "42.716,04 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Vinculado a Cualquier Cuerpo O Escala (Admon A)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia y conocimiento en la elaboración y tramitación del anteproyecto del presupuesto. · Experiencia en gestión de expedientes de activos fijos en la aplicación nexus, conforme a · Criterios de contabilidad y noramtiva de aplicación a efectos de inventario general de bienes y · Derechos de la comunidad de madrid. · Experiencia en contratación pública: elaboración de pliegos, seguimiento y control de ejecución · De contratos públicos, en especial suministros y servicios, y en gestión de compras de bienes de · Gestión centralizada y tramitación de contratos menores. · Experiencia en manejo de la aplicación nexus, como gestor de gasto y unidad promotora. · Experiencia en gestión de asuntos generales y seguimiento y gestión del servicio de reprografía. · Experiencia en dirección y coordinación de equipos de trabajo."
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-23.PDF"
   },
@@ -215,18 +510,35 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE SANIDAD",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Orden 1692/2026, de 27 de octubre, de la Consejera de Sanidad, por la que se apruebaconvocatoriapúblicaparalaprovisióndeunpuestodetrabajovacanteen laConsejeríadeSanidad,porelprocedimientodeLibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden 1692/2026, de 27 de octubre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 38144 ENTE PÚBLICO SERVICIO MADRILEÑO DE A 29 42",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
-      "sistema": "concurso de méritos, libre designación",
-      "plazo": "No consta en el texto"
+      "nivel": "Nivel CD 29",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "38144",
+          "denominacion": "Jefe de area de coordinacion de prestacion farmaceutica y de suministros de medicamentos extranjeros",
+          "unidad": "Ente Público Servicio Madrileño de Salud Unidad Funcional Órgano de Dirección del Servicio Madrileño de Salud Direccion General Gestión Económico- Financiera Subdireccion General Farmacia y Productos Sanitarios Area de Coordinación de Prestación Farmacéutica y de Suministros de Medicamentos Extranjeros",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "29",
+          "especifico": "42.716,04 €",
+          "procedencia": "COMUNIDAD DE MADRID/ESTATUTARIO",
+          "cuerpos": [
+            "Vinculado a Cualquier Cuerpo O Escala (Admon A)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en la coordinación y supervisión técnica y administrativa para la tramitación de la · Factura farmacéutica a través de receta. · Experiencia en la participación en la comisión de seguimiento y grupos de trabajo vinculados al · Convenio de colaboración de las oficinas de farmacia con el sistema sanitario. · Experiencia en la elaboración de informes técnicos y supervisión de la tramitación de · Solicitudes, autorizaciones y consultas en materia de prestación farmacéutica. · Experiencia en la elaboración y actualización de informes de gasto farmacéutico dirigidos a los · Órganos competentes en prestación farmacéutica. · Experencia en la gestión de la unidad de medicamentos extranjeros para pacientes ambulantes."
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-24.PDF"
   },
@@ -236,18 +548,37 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "01116202-MCOB CONSEJERÍA DE SANIDAD",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Orden 1693/2026, de 28 de octubre, de la Consejera de Sanidad, por la que se apruebaconvocatoriapúblicaparalaprovisióndeunpuestodetrabajovacanteen laConsejeríadeSanidad,porelprocedimientodeLibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden 1693/2026, de 28 de octubre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 58289 CONSEJERIA SANIDAD A 29 42",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
+      "nivel": "Nivel CD 29",
+      "plazas": "1 puesto",
       "sistema": "libre designación",
-      "plazo": "quince días hábiles desde el día siguiente a la publicación en el BOCM"
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "58289",
+          "denominacion": "Jefe de area de contratacion",
+          "unidad": "Consejeria Sanidad Viceconsejeria Sanidad Direccion General Salud Pública División Economico-administrativa Area Contratación",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "29",
+          "especifico": "42.716,04 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Técnicos Superiores de Salud Pública Farmacia (Admon E)",
+            "Técnicos Superiores de Salud Pública Veterinaria (Admon E)",
+            "Equivalente"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Licenciatura/grado en derecho. · Experiencia en planificación y seguimiento del plan anual de contratación. · Experiencia en la elaboración y tramitación de expedientes de contratación. · Experiencia en la organización y coordinación de equipos de trabajo. · Conocimiento y formación en materia de salud pública y procedimiento administrativo."
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-25.PDF"
   },
@@ -257,18 +588,50 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE SANIDAD",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Orden 1694/2026, de 27 de octubre, de la Consejera de Sanidad por la que se apruebaconvocatoriapúblicaparalaprovisióndepuestosdetrabajovacantesen laConsejeríadeSanidad,porelprocedimientodeLibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden 1694/2026, de 27 de octubre, de la Consejera de Sanidad por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Sanidad, por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 50619 ENTE PÚBLICO SERVICIO MADRILEÑO DE A 29 42; Cuerpo Escala Especialidad Admon 79287 ENTE PÚBLICO SERVICIO MADRILEÑO DE A 29 39",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
+      "nivel": "Nivel CD 29",
+      "plazas": "2 puestos",
       "sistema": "libre designación",
-      "plazo": "quince días hábiles desde el día siguiente a la publicación en el BOCM"
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "50619",
+          "denominacion": "Jefe de area de planificacion sanitaria",
+          "unidad": "Ente Público Servicio Madrileño de Salud Unidad Funcional Órgano de Dirección del Servicio Madrileño de Salud Direccion General Aseguramiento, Adecuación y Supervisión Sanitaria Subdireccion General Aseguramiento Público y Prestaciones Sanitarias Area de Planificacion Sanitaria",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "29",
+          "especifico": "42.716,04 €",
+          "procedencia": "COMUNIDAD DE MADRID/ESTATUTARIO",
+          "cuerpos": [
+            "Vinculado a Cualquier Cuerpo O Escala (Admon A)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Licenciatura/grado en medicina. · Experiencia en análisis e interpretación de los datos obtenidos en los sistemas de información · Sanitaria disponibles y en sip-cibeles. · Experiencia en elaboración de informes técnicos para la toma de decisiones en planificación y · Gestión sanitaria. · Experiencia en atención a consultas de entidades como el defensor del pueblo, asamblea de · Madrid y organizaciones de apoyo a extranjeros y refugiados. · Experiencia en formación continua para profesionales del sermas y para profesionales de · Unidades de tramitación, relacionada con el derecho de acceso a la asistencia sanitaria."
+        },
+        {
+          "codigo": "79287",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Ente Público Servicio Madrileño de Salud Unidad Funcional Órgano de Dirección del Servicio Madrileño de Salud Direccion General Aseguramiento, Adecuación y Supervisión Sanitaria División de Control y Seguimiento de Centros de Gestión Indirecta Area de Auditoría",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "29",
+          "especifico": "39.393,24 €",
+          "procedencia": "C.MADRID/ADMON.ESTADO/CCAA/ESTATUTAR",
+          "cuerpos": [
+            "Io Vinculado a Cualquier Cuerpo O Escala"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Licenciatura/grado en medicina. · Experiencia en tramitación y gestión de procedimientos administrativos. · Experiencia y formación en sistemas de información de servicios sanitarios. · Formación en estadística e informática, cálculo de muestras, margen de error e índices de · Confianza. · Experiencia en la realización de auditoría clínica y de actividad asistencial."
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-26.PDF"
   },
@@ -278,18 +641,37 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE MEDIO AMBIENTE, AGRICULTURA E INTERIOR",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Orden4189/2026,de28deoctubre,delConsejerodeMedioAmbiente,AgriculturaeInterior,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndeun puestodetrabajovacanteenlaConsejeríadeMedioAmbiente,AgriculturaeInterior (Agencia de Seguridad y Emergencias Madrid 112), por el procedimiento deLibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden 4189/2026, de 28 de octubre, del Consejero de Medio Ambiente, Agricultura e Interior, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Agricultura e Interior (Agencia de Seguridad y Emergencias Madrid 112), por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 58698 ENTE PÚBLICO AGENCIA DE SEGURIDAD Y A/B 26 27",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
+      "nivel": "Nivel CD 26",
+      "plazas": "1 puesto",
       "sistema": "libre designación",
-      "plazo": "quince días hábiles"
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "58698",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Ente Público Agencia de Seguridad y Emergencias Madrid 112 Direccion General Gestión Económica y Personal Subdireccion General Régimen Jurídico y Asuntos Generales División de Régimen Jurídico",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Superior de Gestión (Admon G)"
+          ],
+          "localidad": "Rozas de Madrid, Las",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en la tramitación de convenios. · Experiencia en la tramitación y gestión de encargos a medios propios."
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-27.PDF"
   },
@@ -299,18 +681,37 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE MEDIO AMBIENTE, AGRICULTURA E INTERIOR",
     "suborganismo": "Agrario y Alimentario (IMIDRA)",
-    "tipo": "Puestointerino",
-    "texto": "Resoluciónde29deoctubrede2026,delaDirectora-GerentedelInstitutoMadrileñodeInvestigaciónyDesarrolloRural,AgrarioyAlimentario(IMIDRA),por laqueseconvocaparasucoberturainterinaunpuestodetrabajovacanteyseprevélaconstitucióndelalistadeespera",
+    "tipo": "Puesto interino",
+    "texto": "Resolución de 29 de octubre de 2026, de la Directora-Gerente del Instituto Madrileño de Investigación y Desarrollo Rural, Agrario y Alimentario (IMIDRA), por la que se convoca para su cobertura interina un puesto de trabajo vacante y se prevé la constitución de la lista de espera",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo de Ingenieros y Arquitectos Técnicos; Escala de Ingeniería Técnica y EspecialidadInvestigaciónAgropecuaria; Cuerpo Escala Especialidad NPT 47885 ORGANISMO AUTONOMO A2 20 7888; Escala de Ingeniería Técnica",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A2",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
+      "nivel": "Nivel CD 20",
+      "plazas": "1 puesto",
       "sistema": "interinidad",
-      "plazo": "siete días hábiles"
+      "plazo": "siete días hábiles contados desde el día siguiente al de la publicación de la convocatoria en el BOLETÍN OFICIAL DE LA CO- MUNIDAD DE MADRID",
+      "puestos": [
+        {
+          "codigo": "47885",
+          "denominacion": "Npt técnico de grado medio",
+          "unidad": "Organismo Autonomo Instituto Madrileño de Investigacion y Desarrollo Rural, Agrario y Alimentario Secretaria General",
+          "grupo": "A2",
+          "nivel_cd": "20",
+          "especifico": "",
+          "procedencia": "COMUNIDAD DE MADRID E",
+          "cuerpos": [
+            "Ingenieros y Arquitectos Técnicos",
+            "Ingenieria Tecnica",
+            "Investigacion Agropecuaria, Alimentaria y Medio Ambiental"
+          ],
+          "localidad": "Alcalá de Henares",
+          "jornada": "",
+          "perfil": ""
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-28.PDF"
   },
@@ -320,8 +721,8 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE MEDIO AMBIENTE, AGRICULTURA E INTERIOR",
     "suborganismo": "Canal de Isabel II, S. A., M. P.",
-    "tipo": "Convocatoriaprocesoselectivo",
-    "texto": "Anunciode30deoctubrede2026,deCanaldeIsabelII,S.A.,M.P.,porelque hacepúblicalaconvocatoriadeprocesoselectivoparalacoberturadepuestosindefinidosporturnolibrede5plazas",
+    "tipo": "Convocatoria proceso selectivo",
+    "texto": "Anuncio de 30 de octubre de 2026, de Canal de Isabel II, S. A., M. P., por el que hace pública la convocatoria de proceso selectivo para la cobertura de puestos indefinidos por turno libre de 5 plazas",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
@@ -329,8 +730,8 @@
       "grupo": "No consta en el texto",
       "nivel_educativo": "",
       "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
-      "sistema": "No consta en el texto",
+      "plazas": "5",
+      "sistema": "turno libre",
       "plazo": "No consta en el texto"
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-29.PDF"
@@ -341,8 +742,29 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CÁMARA DE CUENTAS DE LA COMUNIDAD DE MADRID",
     "suborganismo": "",
-    "tipo": "Concursoespecífico",
-    "texto": "Resoluciónde29deoctubrede2026,delPresidentedelaCámaradeCuentasdela ComunidaddeMadrid,porlaquesehacepúblicoelAcuerdodelConsejo,de28de octubrede2026,porelqueseapruebaconvocatoriapúblicadepuestosdetrabajo parasuprovisiónporelsistemadeconcursoespecífico",
+    "tipo": "Concurso específico",
+    "texto": "Resolución de 29 de octubre de 2026, del Presidente de la Cámara de Cuentas de la Comunidad de Madrid, por la que se hace público el Acuerdo del Consejo, de 28 de octubre de 2026, por el que se aprueba convocatoria pública de puestos de trabajo para su provisión por el sistema de concurso específico",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Cuerpo Escala y/o Especialidad de procedencia",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "concurso de méritos, libre designación, promoción interna, comisión de servicios",
+      "plazo": "quince días hábiles a contar desde el siguiente a la publicación de esta convocatoria en el BOLETÍN OFI- CIAL DE LA COMUNIDAD DE MADRID"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-32.PDF"
+  },
+  {
+    "cve": "BOCM-20261110-69",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Alpedrete",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Alpedrete. Ofertas de empleo. Proceso selectivo",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
@@ -350,20 +772,125 @@
       "grupo": "No consta en el texto",
       "nivel_educativo": "",
       "nivel": "No consta en el texto",
+      "plazas": "2",
+      "sistema": "oposición",
+      "plazo": "veinte días hábiles contados a partir del día siguiente de la publicación del extracto del anuncio de la convocatoria en el “Boletín Oficial del Estado”"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-69.PDF"
+  },
+  {
+    "cve": "BOCM-20261110-88",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Leganés",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Leganés. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Escala de Administración Especial; Subescala Técnica; Clase Técnicos Superiores; categoría Director/a Deportivo/a",
+      "grupo": "A1",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 24, Nivel 24",
+      "plazas": "3, 1",
+      "sistema": "concurso de méritos, libre designación, promoción interna",
+      "plazo": "quince días hábiles contados a partir del día siguiente al de la publicación del anuncio del extracto de la convocatoria en el Boletín Oficial del Estado"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-88.PDF"
+  },
+  {
+    "cve": "BOCM-20261110-89",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Navalcarnero",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Navalcarnero. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "concurso-oposición, turno libre",
+      "plazo": "veinte días hábiles contados a partir del siguiente a la publicación de la convocatoria en el “Boletín Oficial del Estado”"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-89.PDF"
+  },
+  {
+    "cve": "BOCM-20261110-90",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Pinto",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Pinto. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "categoría Arquitecto/a Técnico",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
       "plazas": "No consta en el texto",
-      "sistema": "No consta en el texto",
+      "sistema": "bolsa de empleo",
+      "plazo": "diez días hábiles a contar desde el día siguiente a la publicación del extracto de este anuncio en el BOLETÍN OFICIAL DE LA COMU- NIDAD DE MADRID"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-90.PDF"
+  },
+  {
+    "cve": "BOCM-20261110-99",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Villalbilla",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Villalbilla. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "categoría de Administrativo/a; Escala de Administración General; Subescala Administrativa",
+      "grupo": "C1",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "3",
+      "sistema": "oposición",
+      "plazo": "veinte días hábiles a contar desde el día siguiente a la publicación del anuncio en el “Boletín Oficial del Estado”"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-99.PDF"
+  },
+  {
+    "cve": "BOCM-20261110-100",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Villavieja del Lozoya",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Villavieja del Lozoya. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "concurso-oposición, oposición",
       "plazo": "No consta en el texto"
     },
-    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-32.PDF"
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-100.PDF"
   },
   {
     "cve": "BOCM-20261110-102",
     "seccion": "III. ADMINISTRACIÓN LOCAL",
     "subseccion": "",
-    "organismo": "Ayuntamiento de MancomunidaddeServiciosdelSuroestedeMadrid.Ofertasdeempleo.Proceso selectivo",
+    "organismo": "Ayuntamiento de Mancomunidad de Servicios del Suroeste de Madrid",
     "suborganismo": "",
-    "tipo": "",
-    "texto": "MancomunidaddeServiciosdelSuroestedeMadrid.Ofertasdeempleo.Proceso selectivo",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Mancomunidad de Servicios del Suroeste de Madrid. Ofertas de empleo. Proceso selectivo",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
@@ -373,7 +900,7 @@
       "nivel": "No consta en el texto",
       "plazas": "No consta en el texto",
       "sistema": "bolsa de empleo",
-      "plazo": "No consta en el texto"
+      "plazo": "quince días hábiles desde el día siguiente a la publicación en el BOCM"
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/10/BOCM-20261110-102.PDF"
   }
