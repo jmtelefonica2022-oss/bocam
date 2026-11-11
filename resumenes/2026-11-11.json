@@ -5,18 +5,36 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Ordende30deoctubrede2026,delConsejerodePresidencia,JusticiayAdministraciónLocal,porlaqueseapruebaconvocatoriapúblicaparalaprovisiónde unpuestodetrabajovacanteenlaConsejeríadePresidencia,JusticiayAdministraciónLocal,porelprocedimientodeLibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 30 de octubre de 2026, del Consejero de Presidencia, Justicia y Administración Local, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia y Administración Local, por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 86711 CONSEJERIA PRESIDENCIA",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
+      "nivel": "Nivel CD 28",
+      "plazas": "1 puesto",
       "sistema": "libre designación",
-      "plazo": "No consta en el texto"
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "86711",
+          "denominacion": "Jefe de unidad tecnica del registro de fundaciones",
+          "unidad": "Consejeria Presidencia, Justicia y Administración Local Viceconsejeria Justicia y Víctimas Direccion General Recursos Humanos y Relaciones Con la Administración de Justicia Subdireccion General Estudios, Informes y Registro de Fundaciones y Colegios Profesionales Unidad Tecnica del Registro de Fundaciones",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "28",
+          "especifico": "33.940,56 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Superior de Gestión (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA Y DOS TA",
+          "perfil": "Licenciado/graduado en derecho. · Experiencia en la tramitación de procedimientos administrativos y elaboración de informes · Jurídicos. · Experiencia en materia de transparencia. · Experiencia en la tramitación de recursos administrativos."
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-1.PDF"
   },
@@ -26,8 +44,8 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Ordende3denoviembre2026,delConsejerodePresidencia,JusticiayAdministraciónLocal,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndeun puestodetrabajovacanteenlaConsejeríadePresidencia,JusticiayAdministraciónLocal,porelprocedimientodeLibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 3 de noviembre 2026, del Consejero de Presidencia, Justicia y Administración Local, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia y Administración Local, por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
@@ -36,8 +54,8 @@
       "nivel_educativo": "",
       "nivel": "No consta en el texto",
       "plazas": "1",
-      "sistema": "No consta en el texto",
-      "plazo": "No consta en el texto"
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles desde la fecha de entrada en vigor de esta convocatoria"
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-2.PDF"
   },
@@ -47,18 +65,36 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
     "suborganismo": "",
-    "tipo": "Concursodeméritos",
-    "texto": "Ordende30deoctubrede2026,delaConsejeradeEconomía,HaciendayEmpleo,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndeunpuestode trabajovacanteenlaConsejeríadeEconomía,HaciendayEmpleoporelprocedimientodeConcursodeMéritos",
+    "tipo": "Concurso de méritos",
+    "texto": "Orden de 30 de octubre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 35809 CONSEJERIA ECONOMÍA",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "B/C (equivale a A2/C1)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
-      "sistema": "libre designación",
-      "plazo": "No consta en el texto"
+      "nivel": "Nivel CD 22",
+      "plazas": "1 puesto",
+      "sistema": "concurso de méritos",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de la convocatoria",
+      "puestos": [
+        {
+          "codigo": "35809",
+          "denominacion": "Subsec. cooperativas",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Economía y Empleo Direccion General Autónomos y Emprendimiento Subdireccion General Autónomos Area de Registro de Entidades de Economia Social Servicio Mutualidades de Previsión Social y Sociedades Laborales Subseccion Cooperativas",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-3.PDF"
   },
@@ -68,18 +104,68 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
     "suborganismo": "",
-    "tipo": "Concursodeméritos",
-    "texto": "Ordende30deoctubrede2026,delaConsejeradeEconomía,HaciendayEmpleo,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndepuestosde trabajo vacantes en la Consejería Economía, Hacienda y Empleo por el procedimientodeConcursodeMéritos",
+    "tipo": "Concurso de méritos",
+    "texto": "Orden de 30 de octubre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 30963 ORGANO COLEGIADO TRIBUNAL C/D 18 9; Cuerpo Escala Especialidad Admon 38253 CONSEJERIA ECONOMÍA; Cuerpo Escala Especialidad Admon 49711 ORGANO COLEGIADO TRIBUNAL B/C 22 11",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "C/D (equivale a C1/C2), B/C (equivale a A2/C1)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
-      "sistema": "concurso de méritos, libre designación",
-      "plazo": "No consta en el texto"
+      "nivel": "Nivel CD 18, Nivel CD 22",
+      "plazas": "3 puestos",
+      "sistema": "concurso de méritos",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de la convocatoria",
+      "puestos": [
+        {
+          "codigo": "30963",
+          "denominacion": "Neg. coordinacion",
+          "unidad": "Organo Colegiado Tribunal Administrativo de Contratacion Publica de la Comunidad de Madrid Negociado Coordinacion",
+          "grupo": "C/D (equivale a C1/C2)",
+          "nivel_cd": "18",
+          "especifico": "9.016,56 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Administrativos de Administración General (Admon G)",
+            "Auxiliares de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "38253",
+          "denominacion": "Subsec. gestion de tributos locales ii",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Patrimonio y Contratación Subdireccion General Patrimonio División Juridica y Económica de Patrimonio Area de Gestion Economico- Administrativa Servicio Gestion de Tributos Locales Subseccion Gestion de Tributos Locales Ii",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "49711",
+          "denominacion": "Subsec. tramitacion administrativa iii",
+          "unidad": "Organo Colegiado Tribunal Administrativo de Contratacion Publica de la Comunidad de Madrid Subseccion Tramitación Administrativa Iii",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-4.PDF"
   },
@@ -89,18 +175,36 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Ordende30deoctubrede2026,delaConsejeradeEconomía,HaciendayEmpleo,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndeunpuestode trabajovacanteenlaConsejeríadeEconomía,HaciendayEmpleoporelprocedimientodeLibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 30 de octubre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 46632 CONSEJERIA ECONOMÍA",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
+      "nivel": "Nivel CD 29",
+      "plazas": "1 puesto",
       "sistema": "libre designación",
-      "plazo": "No consta en el texto"
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "46632",
+          "denominacion": "Jefe de area de tasas y precios publicos",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Tributos Subdireccion General Administración Económico-financiera y Seguimiento de los Ingresos Area Tasas y Precios Publicos",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "29",
+          "especifico": "42.716,04 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Superior de Gestión (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en gestión económico financiera y contable del presupuesto de ingresos de la · Comunidad de madrid · Experiencia en la utilización de los sistemas de información gestionados por la dirección · General de tributos · Experiencia en dirección y coordinación de grupos de trabajo"
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-5.PDF"
   },
@@ -110,18 +214,116 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "11116202-MCOB CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
     "suborganismo": "",
-    "tipo": "Concursodeméritos",
-    "texto": "Orden de 2 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndepuestos de trabajo vacantes en la Consejería Economía, Hacienda y Empleo por el procedimientodeConcursodeMéritos",
+    "tipo": "Concurso de méritos",
+    "texto": "Orden de 2 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 47613 CONSEJERIA ECONOMÍA; Cuerpo Escala Especialidad Admon 47617 CONSEJERIA ECONOMÍA; Cuerpo Escala Especialidad Admon 48181 CONSEJERIA ECONOMÍA; Cuerpo Escala Especialidad Admon 49795 CONSEJERIA ECONOMÍA",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "B/C (equivale a A2/C1)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
-      "sistema": "libre designación",
-      "plazo": "No consta en el texto"
+      "nivel": "Nivel CD 22",
+      "plazas": "6 puestos",
+      "sistema": "concurso de méritos",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de la convocatoria",
+      "puestos": [
+        {
+          "codigo": "47613",
+          "denominacion": "Responsable de fiscalizacion i",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Intervencion General Secretaría General",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "47617",
+          "denominacion": "Responsable de fiscalizacion v",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Intervencion General Secretaría General",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "48181",
+          "denominacion": "Responsable de fiscalizacion xii",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Intervencion General Secretaría General",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "49795",
+          "denominacion": "Responsable de fiscalizacion",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Intervencion General",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "49900",
+          "denominacion": "Responsable de gestion administrativa",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Intervencion General",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "49902",
+          "denominacion": "Responsable de fiscalizacion",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Intervencion General",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-6.PDF"
   },
@@ -131,18 +333,84 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
     "suborganismo": "",
-    "tipo": "Concursodeméritos",
-    "texto": "Ordende3denoviembrede2026,delaConsejeradeEconomía,HaciendayEmpleo,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndevariospuestosdetrabajovacantesenlaConsejeríadeEconomía,HaciendayEmpleoporel procedimientodeConcursodeMéritos",
+    "tipo": "Concurso de méritos",
+    "texto": "Orden de 3 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 45814 CONSEJERIA ECONOMÍA; Cuerpo Escala Especialidad Admon 46114 CONSEJERIA ECONOMÍA; Cuerpo Escala Especialidad Admon 46168 CONSEJERIA ECONOMÍA; Cuerpo Escala Especialidad Admon 73265 CONSEJERIA ECONOMÍA",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "B/C (equivale a A2/C1), A/B (equivale a A1/A2)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
-      "sistema": "libre designación",
-      "plazo": "No consta en el texto"
+      "nivel": "Nivel CD 22, Nivel CD 25",
+      "plazas": "4 puestos",
+      "sistema": "concurso de méritos",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de la convocatoria",
+      "puestos": [
+        {
+          "codigo": "45814",
+          "denominacion": "Subsec. oficina empleo",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Economía y Empleo Direccion General Servicio Público de Empleo Subdireccion General Fomento del Empleo Oficina de Empleo de Nueva Numancia Subseccion Oficina de Empleo",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "12.263,52 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos y Diplomados Especialistas Gestión de Empleo (Admon E)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "46114",
+          "denominacion": "Subsec. verificacion",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Economía y Empleo Direccion General Servicio Público de Empleo Subdireccion General Gestión Económica y Control Financiero Area Verificación y Seguimiento de Programas de Empleo Servicio de Verificacion Subseccion de Verificación",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "46168",
+          "denominacion": "Subsec. oficina empleo",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Economía y Empleo Direccion General Servicio Público de Empleo Subdireccion General Fomento del Empleo Oficina de Empleo de Alcorcon Ii Subseccion Oficina de Empleo",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "12.263,52 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos y Diplomados Especialistas Gestión de Empleo (Admon E)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Alcorcón",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "73265",
+          "denominacion": "Sec. coe",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Economía y Empleo Direccion General Servicio Público de Empleo Subdireccion General Fomento del Empleo Centro de Orientacion, Emprendimiento, Acompañamiento e Innovacion Para el Empleo de Getafe Seccion Coe",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "25",
+          "especifico": "17.075,52 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores Especialistas Superior de Empleo (Admon E)",
+            "Técnicos y Diplomados Especialistas Gestión de Empleo (Admon E)"
+          ],
+          "localidad": "Getafe",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-7.PDF"
   },
@@ -152,18 +420,35 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Ordende3denoviembrede2026,delaConsejeradeEconomía,HaciendayEmpleo, porlaqueseapruebaconvocatoriapúblicaparalaprovisióndeunpuestodetrabajo vacanteenlaConsejeríadeEconomía,HaciendayEmpleoporelprocedimientode LibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 3 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 51357 CONSEJERIA ECONOMÍA",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
+      "nivel": "Nivel CD 26",
+      "plazas": "1 puesto",
       "sistema": "libre designación",
-      "plazo": "No consta en el texto"
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "51357",
+          "denominacion": "Serv. regimen economico personal ii",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Recursos Humanos Subdireccion General Regímenes Especiales División Gestion Economica de Personal Docente y Sanitario Servicio Regimen Económico Personal Ii",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "29.304,60 €",
+          "procedencia": "C.MADRID/ADMON.ESTADO/CCAA/ESTATUTAR",
+          "cuerpos": [
+            "Io Vinculado a Cualquier Cuerpo O Escala"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Manejo de la aplicación informática sirius departamental e institucional para la gestión de · Personal y nóminas de personal docente no universitario y del personal estatutario · Manejo de la aplicación informática peoplenet para la gestión de personal y nóminas de · Personal estatutario · Elaboración y mantenimiento de tablas retribuidas de personal docente no universitario y del · Personal estatutario · Experiencia en la planificación y coordinación de la gestión de las nóminas de personal docente · No universitario y del personal estatutario · Experiencia en elaboración de información sobre costes de personal estatutario y personal · Docente no universitario · Experiencia en la utilización de herramientas informáticas excel, word, correo electrónico y · Registro"
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-8.PDF"
   },
@@ -173,18 +458,56 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE FAMILIA, JUVENTUD Y ASUNTOS SOCIALES",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Ordende30deoctubrede2026,delaConsejeradeFamilia,JuventudyAsuntos Sociales,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndepuestosde trabajovacantesenlaConsejeradeFamilia,JuventudyAsuntosSocialesporel procedimientodeLibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 30 de octubre de 2026, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejera de Familia, Juventud y Asuntos Sociales por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 95890 CONSEJERIA FAMILIA; Cuerpo Escala Especialidad Admon 95893 CONSEJERIA FAMILIA",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
+      "nivel": "Nivel CD 26",
+      "plazas": "2 puestos",
       "sistema": "libre designación",
-      "plazo": "No consta en el texto"
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "95890",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Consejeria Familia, Juventud y Asuntos Sociales Viceconsejeria Familia, Juventud y Asuntos Sociales Direccion General Atencion Al Mayor y a la Dependencia Subdireccion General Gestion y Tramitacion del Procedimiento de Dependencia Area Gestión del Procedimiento de Dependencia Servicio Gestion Solicitudes",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Ingenieros y Arquitectos Superiores Ingeniería Superior Ind.energia y Minas (Admon E)",
+            "Ingenieros y Arquitectos Superiores Ingeniería Superior Ord.rural e Ind.agr. (Admon E)",
+            "Ingenieros y Arquitectos Técnicos Ingeniería Técnica Ind.energia y Minas (Admon E)",
+            "Ingenieros y Arquitectos Técnicos Ingeniería Técnica Ord.rural e Ind.agr. (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en coordinación de equipos de trabajo multidisciplinares. · Experiencia en la gestión y tramitación de expedientes administrativos. · Experiencia en la organización, planificación y coordinación de actividades. · Experiencia en elaboración de instrucciones, procedimientos y criterios de actuación dirigidos a · La mejora y homogeneización de la tramitación administrativa. · Manejo de herramientas ofimáticas."
+        },
+        {
+          "codigo": "95893",
+          "denominacion": "Serv. gestion solicitudes",
+          "unidad": "Consejeria Familia, Juventud y Asuntos Sociales Viceconsejeria Familia, Juventud y Asuntos Sociales Direccion General Atencion Al Mayor y a la Dependencia Subdireccion General Gestion y Tramitacion del Procedimiento de Dependencia Area Gestión del Procedimiento de Dependencia Servicio Gestion Solicitudes",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "29.304,60 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Ingenieros y Arquitectos Superiores Ingeniería Superior Ind.energia y Minas (Admon E)",
+            "Ingenieros y Arquitectos Superiores Ingeniería Superior Ord.rural e Ind.agr. (Admon E)",
+            "Ingenieros y Arquitectos Técnicos Ingeniería Técnica Ind.energia y Minas (Admon E)",
+            "Ingenieros y Arquitectos Técnicos Ingeniería Técnica Ord.rural e Ind.agr. (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en organización, dirección y coordinación de equipos de trabajo multidisciplinares. · Experiencia en gestión de procedimientos administrativos complejos, preferentemente en el · Ámbito de los servicios sociales, sanitario o sociosanitario. · Experiencia en elaboración de informes técnicos, instrucciones y procedimientos de gestión y · Trabajo. · Experiencia en planificación, liderazgo, coordinación y orientación a resultados."
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-15.PDF"
   },
@@ -194,29 +517,88 @@
     "subseccion": "B) Autoridades y Personal",
     "organismo": "CONSEJERÍA DE FAMILIA, JUVENTUD Y ASUNTOS SOCIALES",
     "suborganismo": "",
-    "tipo": "Puestolibredesignación",
-    "texto": "Ordende30deoctubrede2026,delaConsejeradeFamilia,JuventudyAsuntos Sociales,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndeunpuestodetrabajovacanteenlaConsejeríadeFamilia,JuventudyAsuntosSocialespor elprocedimientodeLibreDesignación",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 30 de octubre de 2026, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Asuntos Sociales por el procedimiento de Libre Designación",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
-      "cuerpo": "Cuerpo Escala Especialidad Admon 95887 CONSEJERIA FAMILIA",
-      "grupo": "No consta en el texto",
+      "cuerpo": "ver cada puesto",
+      "grupo": "B (equivale a A2)",
       "nivel_educativo": "",
-      "nivel": "No consta en el texto",
-      "plazas": "No consta en el texto",
-      "sistema": "concurso de méritos, libre designación",
-      "plazo": "No consta en el texto"
+      "nivel": "Nivel CD 26",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "95887",
+          "denominacion": "Tecnico de apoyo a la dependencia",
+          "unidad": "Consejeria Familia, Juventud y Asuntos Sociales Viceconsejeria Familia, Juventud y Asuntos Sociales Direccion General Atencion Al Mayor y a la Dependencia Subdireccion General Gestion y Tramitacion del Procedimiento de Dependencia Area Valoración",
+          "grupo": "B (equivale a A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos y Diplomados Especialistas Asistentes Sociales (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en organización y coordinación de equipos de trabajo · Experiencia en manejo de aplicaciones informáticas de gestión de ámbito social de la comunidad · De madrid · Experiencia en gestión de procedimientos administrativos, en particular en materia de asuntos · Sociales · Experiencia en elaboración de informes técnicos · Conocimiento de la normativa y del procedimiento de gestión de la dependencia"
+        }
+      ]
     },
     "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-16.PDF"
   },
   {
-    "cve": "BOCM-20261111-68",
+    "cve": "BOCM-20261111-38",
     "seccion": "III. ADMINISTRACIÓN LOCAL",
     "subseccion": "",
-    "organismo": "Ayuntamiento de MancomunidaddeServiciosSocialesdelaSierraNorte.Ofertasdeempleo.Proceso selectivo",
+    "organismo": "Ayuntamiento de Alcobendas",
     "suborganismo": "",
-    "tipo": "",
-    "texto": "MancomunidaddeServiciosSocialesdelaSierraNorte.Ofertasdeempleo.Proceso selectivo",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Alcobendas. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "A2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "2",
+      "sistema": "concurso-oposición, oposición, turno libre",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-38.PDF"
+  },
+  {
+    "cve": "BOCM-20261111-41",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Brunete",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Brunete. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Escala de Administración Especial; Subescala de Servicios Especiales; Cuerpo de Policía Local",
+      "grupo": "C1",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "4",
+      "sistema": "comisión de servicios",
+      "plazo": "veinte días hábiles desde el día siguiente a la publicación en el BOCM"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-41.PDF"
+  },
+  {
+    "cve": "BOCM-20261111-42",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Bustarviejo",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Bustarviejo. Ofertas de empleo. Proceso selectivo",
     "vacante": true,
     "detalle": {
       "fuente": "regex",
@@ -224,7 +606,133 @@
       "grupo": "No consta en el texto",
       "nivel_educativo": "",
       "nivel": "No consta en el texto",
-      "plazas": "6",
+      "plazas": "1",
+      "sistema": "concurso-oposición, oposición",
+      "plazo": "veinte días hábiles desde el día siguiente a la publicación en el BOCM"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-42.PDF"
+  },
+  {
+    "cve": "BOCM-20261111-48",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Majadahonda",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Majadahonda. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "C1",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "bolsa de empleo",
+      "plazo": "diez días hábiles contados a partir del día siguiente a la publicación de este anuncio en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-48.PDF"
+  },
+  {
+    "cve": "BOCM-20261111-49",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Morata de Tajuña",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Morata de Tajuña. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "No consta en el texto",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-49.PDF"
+  },
+  {
+    "cve": "BOCM-20261111-58",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de San Fernando de Henares",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "San Fernando de Henares. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "A",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "bolsa de empleo",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-58.PDF"
+  },
+  {
+    "cve": "BOCM-20261111-62",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Valdeavero",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Oferta empleo público",
+    "texto": "Valdeavero. Ofertas de empleo. Oferta empleo público",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "C2",
+      "nivel_educativo": "",
+      "nivel": "Nivel 16",
+      "plazas": "1",
+      "sistema": "turno libre",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-62.PDF"
+  },
+  {
+    "cve": "BOCM-20261111-67",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Villarejo de Salvanés",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Villarejo de Salvanés. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "4",
+      "sistema": "promoción interna",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-67.PDF"
+  },
+  {
+    "cve": "BOCM-20261111-68",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Mancomunidad de Servicios Sociales de la Sierra Norte",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Mancomunidad de Servicios Sociales de la Sierra Norte. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "6, 1",
       "sistema": "interinidad",
       "plazo": "No consta en el texto"
     },
