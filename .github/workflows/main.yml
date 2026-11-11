@@ -2,9 +2,10 @@ name: Vacantes BOCM
  
 on:
   schedule:
-    # Lunes a sábado a las 06:40 UTC (7:40 en invierno, 8:40 en verano en Madrid).
-    # GitHub puede retrasar las ejecuciones programadas unos minutos.
-    - cron: "40 6 * * 1-6"
+    # Lunes a sábado a las 13:00 UTC.
+    # Esto equivale a las 14:00 en invierno (Madrid).
+    # Nota: En verano (marzo a octubre) se ejecutará a las 15:00 de Madrid.
+    - cron: "0 13 * * 1-6"
   workflow_dispatch:
     inputs:
       fecha:
