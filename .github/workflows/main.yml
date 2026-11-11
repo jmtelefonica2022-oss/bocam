@@ -1,0 +1,56 @@
+
+on:
+  schedule:
+    # Lunes a sábado a las 06:40 UTC (7:40 en invierno, 8:40 en verano en Madrid).
+    # GitHub puede retrasar las ejecuciones programadas unos minutos.
+    - cron: "40 6 * * 1-6"
+  workflow_dispatch:
+    inputs:
+      fecha:
+        description: "Fecha del boletín (AAAA-MM-DD). Vacío = último publicado"
+        required: false
+        default: ""
+      incluir_tramites:
+        description: "Incluir listas, nombramientos, adjudicaciones…"
+        type: boolean
+        default: false
+ 
+permissions:
+  contents: write
+ 
+jobs:
+  vacantes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+ 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+ 
+      - run: pip install -r requirements.txt
+ 
+      - name: Extraer vacantes
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.fecha }}" ]; then ARGS="$ARGS --fecha ${{ inputs.fecha }}"; fi
+          if [ "${{ inputs.incluir_tramites }}" = "true" ]; then ARGS="$ARGS --incluir-tramites"; fi
+          python bocm_vacantes.py $ARGS
+ 
+      - name: Guardar resumen en el repositorio
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add resumenes 2>/dev/null || exit 0
+          git diff --cached --quiet || git commit -m "Vacantes BOCM $(date +%F)"
+          git push
+ 
