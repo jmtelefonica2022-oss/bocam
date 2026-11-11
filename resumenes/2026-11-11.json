@@ -1,0 +1,233 @@
+[
+  {
+    "cve": "BOCM-20261111-1",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL",
+    "suborganismo": "",
+    "tipo": "Puestolibredesignación",
+    "texto": "Ordende30deoctubrede2026,delConsejerodePresidencia,JusticiayAdministraciónLocal,porlaqueseapruebaconvocatoriapúblicaparalaprovisiónde unpuestodetrabajovacanteenlaConsejeríadePresidencia,JusticiayAdministraciónLocal,porelprocedimientodeLibreDesignación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Cuerpo Escala Especialidad Admon 86711 CONSEJERIA PRESIDENCIA",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "libre designación",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-1.PDF"
+  },
+  {
+    "cve": "BOCM-20261111-2",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL",
+    "suborganismo": "",
+    "tipo": "Puestolibredesignación",
+    "texto": "Ordende3denoviembre2026,delConsejerodePresidencia,JusticiayAdministraciónLocal,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndeun puestodetrabajovacanteenlaConsejeríadePresidencia,JusticiayAdministraciónLocal,porelprocedimientodeLibreDesignación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "No consta en el texto",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-2.PDF"
+  },
+  {
+    "cve": "BOCM-20261111-3",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Concursodeméritos",
+    "texto": "Ordende30deoctubrede2026,delaConsejeradeEconomía,HaciendayEmpleo,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndeunpuestode trabajovacanteenlaConsejeríadeEconomía,HaciendayEmpleoporelprocedimientodeConcursodeMéritos",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Cuerpo Escala Especialidad Admon 35809 CONSEJERIA ECONOMÍA",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "libre designación",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-3.PDF"
+  },
+  {
+    "cve": "BOCM-20261111-4",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Concursodeméritos",
+    "texto": "Ordende30deoctubrede2026,delaConsejeradeEconomía,HaciendayEmpleo,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndepuestosde trabajo vacantes en la Consejería Economía, Hacienda y Empleo por el procedimientodeConcursodeMéritos",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Cuerpo Escala Especialidad Admon 30963 ORGANO COLEGIADO TRIBUNAL C/D 18 9; Cuerpo Escala Especialidad Admon 38253 CONSEJERIA ECONOMÍA; Cuerpo Escala Especialidad Admon 49711 ORGANO COLEGIADO TRIBUNAL B/C 22 11",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "concurso de méritos, libre designación",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-4.PDF"
+  },
+  {
+    "cve": "BOCM-20261111-5",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Puestolibredesignación",
+    "texto": "Ordende30deoctubrede2026,delaConsejeradeEconomía,HaciendayEmpleo,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndeunpuestode trabajovacanteenlaConsejeríadeEconomía,HaciendayEmpleoporelprocedimientodeLibreDesignación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Cuerpo Escala Especialidad Admon 46632 CONSEJERIA ECONOMÍA",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "libre designación",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-5.PDF"
+  },
+  {
+    "cve": "BOCM-20261111-6",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "11116202-MCOB CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Concursodeméritos",
+    "texto": "Orden de 2 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndepuestos de trabajo vacantes en la Consejería Economía, Hacienda y Empleo por el procedimientodeConcursodeMéritos",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Cuerpo Escala Especialidad Admon 47613 CONSEJERIA ECONOMÍA; Cuerpo Escala Especialidad Admon 47617 CONSEJERIA ECONOMÍA; Cuerpo Escala Especialidad Admon 48181 CONSEJERIA ECONOMÍA; Cuerpo Escala Especialidad Admon 49795 CONSEJERIA ECONOMÍA",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "libre designación",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-6.PDF"
+  },
+  {
+    "cve": "BOCM-20261111-7",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Concursodeméritos",
+    "texto": "Ordende3denoviembrede2026,delaConsejeradeEconomía,HaciendayEmpleo,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndevariospuestosdetrabajovacantesenlaConsejeríadeEconomía,HaciendayEmpleoporel procedimientodeConcursodeMéritos",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Cuerpo Escala Especialidad Admon 45814 CONSEJERIA ECONOMÍA; Cuerpo Escala Especialidad Admon 46114 CONSEJERIA ECONOMÍA; Cuerpo Escala Especialidad Admon 46168 CONSEJERIA ECONOMÍA; Cuerpo Escala Especialidad Admon 73265 CONSEJERIA ECONOMÍA",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "libre designación",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-7.PDF"
+  },
+  {
+    "cve": "BOCM-20261111-8",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Puestolibredesignación",
+    "texto": "Ordende3denoviembrede2026,delaConsejeradeEconomía,HaciendayEmpleo, porlaqueseapruebaconvocatoriapúblicaparalaprovisióndeunpuestodetrabajo vacanteenlaConsejeríadeEconomía,HaciendayEmpleoporelprocedimientode LibreDesignación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Cuerpo Escala Especialidad Admon 51357 CONSEJERIA ECONOMÍA",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "libre designación",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-8.PDF"
+  },
+  {
+    "cve": "BOCM-20261111-15",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE FAMILIA, JUVENTUD Y ASUNTOS SOCIALES",
+    "suborganismo": "",
+    "tipo": "Puestolibredesignación",
+    "texto": "Ordende30deoctubrede2026,delaConsejeradeFamilia,JuventudyAsuntos Sociales,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndepuestosde trabajovacantesenlaConsejeradeFamilia,JuventudyAsuntosSocialesporel procedimientodeLibreDesignación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Cuerpo Escala Especialidad Admon 95890 CONSEJERIA FAMILIA; Cuerpo Escala Especialidad Admon 95893 CONSEJERIA FAMILIA",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "libre designación",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-15.PDF"
+  },
+  {
+    "cve": "BOCM-20261111-16",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE FAMILIA, JUVENTUD Y ASUNTOS SOCIALES",
+    "suborganismo": "",
+    "tipo": "Puestolibredesignación",
+    "texto": "Ordende30deoctubrede2026,delaConsejeradeFamilia,JuventudyAsuntos Sociales,porlaqueseapruebaconvocatoriapúblicaparalaprovisióndeunpuestodetrabajovacanteenlaConsejeríadeFamilia,JuventudyAsuntosSocialespor elprocedimientodeLibreDesignación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Cuerpo Escala Especialidad Admon 95887 CONSEJERIA FAMILIA",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "concurso de méritos, libre designación",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-16.PDF"
+  },
+  {
+    "cve": "BOCM-20261111-68",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de MancomunidaddeServiciosSocialesdelaSierraNorte.Ofertasdeempleo.Proceso selectivo",
+    "suborganismo": "",
+    "tipo": "",
+    "texto": "MancomunidaddeServiciosSocialesdelaSierraNorte.Ofertasdeempleo.Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "6",
+      "sistema": "interinidad",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/11/BOCM-20261111-68.PDF"
+  }
+]
