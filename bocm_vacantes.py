@@ -242,6 +242,7 @@ RUIDO = [
         r"^BOCM$",
         r"^Pág\.\s*\d+",
         r"ISSN|D\. L\.:|www\.bocm\.es",
+        r"-MCOB$",  # código de verificación impreso al revés en el margen
     )
 ]
 SECCION_RE = re.compile(r"^(I|II|III|IV|V)\.\s+([A-ZÁÉÍÓÚÑ ,]+)$")
@@ -313,7 +314,8 @@ def parsear_sumario(texto: str) -> list[Entrada]:
                             organismo=organismo, suborganismo=suborg, tipo=tipo, texto=txt)
                 if en_local:  # "Alcobendas. Ofertas de empleo. Convocatoria procesos selectivos"
                     partes = txt.split(". ", 1)
-                    e.organismo = f"Ayuntamiento de {partes[0].strip()}"
+                    nombre = partes[0].strip()
+                    e.organismo = nombre if re.match(r"(Mancomunidad|Consorcio|Entidad)", nombre) else f"Ayuntamiento de {nombre}"
                     e.tipo = partes[1].strip() if len(partes) > 1 else ""
                 entradas.append(e)
                 en_entrada, buf = False, ""
@@ -697,7 +699,11 @@ def informe(fecha: dt.date, numero: int | None, total: int, vacantes: list[Entra
 
 def enviar_email(asunto: str, md: str) -> None:
     host, destino = os.environ.get("SMTP_HOST"), os.environ.get("EMAIL_TO")
+    necesarios = ["SMTP_HOST", "SMTP_PORT", "SMTP_USER", "SMTP_PASSWORD", "EMAIL_TO"]
+    faltan = [v for v in necesarios if not os.environ.get(v)]
+    print("Email: " + ("todos los secrets recibidos" if not faltan else f"FALTAN los secrets {', '.join(faltan)}"))
     if not (host and destino):
+        print("Email NO enviado: crea esos secrets en Settings > Secrets and variables > Actions > Repository secrets")
         return
     try:
         import markdown
@@ -710,13 +716,21 @@ def enviar_email(asunto: str, md: str) -> None:
     msg.attach(MIMEText(html, "html", "utf-8"))
     puerto = int(os.environ.get("SMTP_PORT", "465"))
     srv = smtplib.SMTP_SSL(host, puerto) if puerto == 465 else smtplib.SMTP(host, puerto)
+    try:
+        _enviar(srv, puerto, msg, destino)
+    except smtplib.SMTPAuthenticationError:
+        print("Email NO enviado: Gmail rechaza usuario/contraseña. Usa una contraseña de aplicación (16 letras, sin espacios).")
+        raise
+    print(f"Email enviado a {destino}")
+
+
+def _enviar(srv, puerto, msg, destino) -> None:
     with srv:
         if puerto != 465:
             srv.starttls()
         if os.environ.get("SMTP_USER"):
             srv.login(os.environ["SMTP_USER"], os.environ["SMTP_PASSWORD"])
-        srv.sendmail(msg["From"], destino.split(","), msg.as_string())
-    print(f"Email enviado a {destino}")
+        srv.sendmail(msg["From"], [d.strip() for d in destino.split(",")], msg.as_string())
 
 
 # --------------------------------------------------------------------------- main
