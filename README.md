@@ -12,7 +12,7 @@ Lee cada mañana el Boletín Oficial de la Comunidad de Madrid y saca las convoc
 
 1. Localiza la disposición nº 1 del día (`BOCM-AAAAMMDD-1`), lee el número del boletín y descarga el sumario.
 2. En el sumario se queda con *I.B) Autoridades y Personal* y con las *Ofertas de empleo* de los ayuntamientos (*III*). Descarta listas, nombramientos, adjudicaciones, ceses y tribunales.
-3. Descarga cada convocatoria y extrae los datos.
+3. Descarga cada convocatoria y extrae los datos. Si trae una **tabla de puestos** (libre designación, concurso de méritos), saca cada puesto: código, denominación, unidad, grupo (con su equivalencia A1/A2/C1/C2), nivel CD, complemento específico, cuerpos admitidos, localidad, jornada y perfil.
 4. Guarda `resumenes/AAAA-MM-DD.md` y `.json`, lo muestra en el resumen de la ejecución de GitHub y, si lo configuras, lo envía por email.
 
 Si el sumario no está disponible, recorre las disposiciones una a una. Es más lento y el informe lo indica.

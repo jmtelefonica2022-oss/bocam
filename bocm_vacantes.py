@@ -76,10 +76,113 @@ def descargar_pdf(url: str, intentos: int = 3) -> bytes | None:
     raise ErrorDescarga(f"{url}: {ultimo}")
 
 
+X_TOL = 1.5  # el BOCM usa texto justificado: con el valor por defecto (3) se pierden espacios
+
+
 def texto_pdf(contenido: bytes, max_paginas: int | None = None) -> str:
     with pdfplumber.open(io.BytesIO(contenido)) as pdf:
         paginas = pdf.pages if max_paginas is None else pdf.pages[:max_paginas]
-        return "\n".join((p.extract_text() or "") for p in paginas)
+        return "\n".join((p.extract_text(x_tolerance=X_TOL) or "") for p in paginas)
+
+
+# --------------------------------------------------------------------------- anexos de puestos
+# Equivalencia legal de los grupos antiguos (Ley 1/1986 CM) con los del EBEP (disp. trans. 3ª).
+GRUPOS_ANTIGUOS = {"A": "A1", "B": "A2", "C": "C1", "D": "C2", "E": "AP"}
+
+
+def _lineas(palabras: list[dict], salto: float = 4) -> list[tuple[float, str]]:
+    """Agrupa palabras en líneas por su coordenada vertical."""
+    lineas: list[list] = []
+    for w in sorted(palabras, key=lambda w: (round(w["top"]), w["x0"])):
+        if lineas and abs(w["top"] - lineas[-1][0]) <= salto:
+            lineas[-1][1].append(w)
+        else:
+            lineas.append([w["top"], [w]])
+    return [(top, " ".join(x["text"] for x in sorted(ws, key=lambda x: x["x0"]))) for top, ws in lineas]
+
+
+def _bloques(lineas: list[tuple[float, str]], hueco: float = 9) -> list[tuple[float, str]]:
+    """Une líneas consecutivas muy próximas (un nombre partido en dos renglones)."""
+    res: list[list] = []
+    for top, txt in lineas:
+        if res and top - res[-1][2] <= hueco:
+            res[-1][1] += " " + txt
+            res[-1][2] = top
+        else:
+            res.append([top, txt, top])
+    return [(t, s) for t, s, _ in res]
+
+
+def explicar_grupo(g: str) -> str:
+    letras = [x.strip() for x in g.split("/")]
+    if letras and all(x in GRUPOS_ANTIGUOS for x in letras):
+        return f"{g} (equivale a {'/'.join(GRUPOS_ANTIGUOS[x] for x in letras)})"
+    return g
+
+
+def parsear_anexo_puestos(pdf) -> list[dict]:
+    """Lee las tablas 'Puesto/Denominación · Unidad · Grupo · NCD · Específico · Cuerpo…'
+    de las convocatorias de libre designación y concurso de méritos."""
+    puestos: list[dict] = []
+    for page in pdf.pages:
+        palabras = page.extract_words(x_tolerance=X_TOL)
+        cab = {}
+        for w in palabras:
+            for clave in ("Grupo", "NCD", "Específico", "Admon", "Unidad", "Cuerpo", "Administración"):
+                if w["text"] == clave:
+                    cab.setdefault(clave, []).append(w)
+        if not ("Grupo" in cab and "NCD" in cab):
+            continue
+        cabeceras = sorted(cab["NCD"], key=lambda w: w["top"])
+        x_uni = cab["Unidad"][0]["x0"] if "Unidad" in cab else 110
+        x_gru = cab["Grupo"][0]["x0"]
+        x_ncd = cab["NCD"][0]["x0"]
+        x_esp = cab["Específico"][0]["x0"] if "Específico" in cab else x_ncd + 20
+        x_adm = cab["Admon"][0]["x0"] if "Admon" in cab else page.width
+        codigos = [w for w in palabras if w["x0"] < x_uni - 5 and re.fullmatch(r"\d{3,6}", w["text"])
+                   and any(w["top"] > h["top"] for h in cabeceras)]
+        codigos.sort(key=lambda w: w["top"])
+        limites = sorted({h["top"] for h in cabeceras} | {page.height})
+        for i, cod in enumerate(codigos):
+            fin = min([l for l in limites if l > cod["top"] + 5] +
+                      ([codigos[i + 1]["top"] - 3] if i + 1 < len(codigos) else []))
+            zona = [w for w in palabras if cod["top"] - 4 <= w["top"] < fin and w is not cod]
+            loc = next((w["top"] for w in zona if w["text"].startswith("Localidad")), fin)
+            perf = next((w["top"] for w in zona if w["text"] == "PERFIL"), fin)
+            tabla = [w for w in zona if w["top"] < loc - 2]
+            num = re.compile(r"[\d.]+,\d{2}")
+            col = lambda a, b: [w for w in tabla if a <= w["x0"] < b]
+            especifico = [w for w in tabla if num.fullmatch(w["text"])]
+            x_cuerpo = (max(w["x1"] for w in especifico) + 3) if especifico else x_esp + 35
+            cuerpo_ws = [w for w in col(x_cuerpo, x_adm - 5) if w not in especifico]
+            fila1 = [w for w in cuerpo_ws if abs(w["top"] - cod["top"]) <= 4]
+            resto = [w for w in cuerpo_ws if w not in fila1]
+            admon = _lineas(col(x_adm - 5, page.width))
+            cuerpos = []
+            for top, nombre in _bloques(_lineas(resto)):
+                letra = next((t for tp, t in admon if abs(tp - top) <= 4), "")
+                cuerpos.append(titulo(nombre) + (f" (Admon {letra})" if letra else ""))
+            linea = lambda pref: next((t.split(":", 1)[-1].strip() for tp, t in _lineas(zona)
+                                       if t.startswith(pref)), "")
+            perfil = []
+            for tp, t in _lineas([w for w in zona if w["top"] > perf + 2 and w["text"] != "PERFIL"]):
+                if (not es_mayusculas(t) or re.search(r"BOCM|bocm\.es|BOLET[ÍI]N|ISSN|^\(|^\d+-\d+|Administraci[oó]n P[uú]blica$", t)):
+                    break  # pie de página o cabecera de la tabla siguiente
+                perfil.append(t)
+            puestos.append({
+                "codigo": cod["text"],
+                "denominacion": " ".join(t for _, t in _lineas(col(0, x_uni - 5))).replace(cod["text"], "").strip().capitalize(),
+                "unidad": titulo(" ".join(t for _, t in _lineas(col(x_uni - 5, x_gru - 8)))),
+                "grupo": explicar_grupo(" ".join(w["text"] for w in col(x_gru - 8, x_ncd - 3))),
+                "nivel_cd": " ".join(w["text"] for w in col(x_ncd - 3, x_esp - 3)),
+                "especifico": especifico[0]["text"] + " €" if especifico else "",
+                "procedencia": " ".join(w["text"] for w in sorted(fila1, key=lambda w: w["x0"])),
+                "cuerpos": cuerpos,
+                "localidad": re.sub(r"^\.*:?\s*", "", linea("Localidad")),
+                "jornada": linea("Turno/Jornada"),
+                "perfil": " · ".join(p.capitalize() for p in perfil),
+            })
+    return puestos
 
 
 def url_disposicion(fecha: dt.date, n: int) -> str:
@@ -266,6 +369,18 @@ NUMEROS = {
     "siete": "7", "ocho": "8", "nueve": "9", "diez": "10", "once": "11", "doce": "12",
     "quince": "15", "veinte": "20", "treinta": "30",
 }
+SISTEMAS = [
+    (r"concurso[\s-]+oposici[oó]n", "concurso-oposición"),
+    (r"(?<!concurso-)(?<!concurso )\boposici[oó]n\b", "oposición"),
+    (r"concurso de m[eé]ritos", "concurso de méritos"),
+    (r"libre designaci[oó]n", "libre designación"),
+    (r"bolsa de (?:empleo|trabajo)", "bolsa de empleo"),
+    (r"estabilizaci[oó]n", "estabilización"),
+    (r"promoci[oó]n interna", "promoción interna"),
+    (r"turno libre|acceso libre", "turno libre"),
+    (r"comisi[oó]n de servicios", "comisión de servicios"),
+    (r"interin", "interinidad"),
+]
 # Grupo fijado por la LOE para los cuerpos docentes (se indica que viene de la ley).
 CUERPOS_DOCENTES = [
     ("Catedráticos", "A1", "Secundaria / EOI / Música y Artes Escénicas / Artes Plásticas"),
@@ -305,7 +420,8 @@ def extraer_regex(t: str) -> dict:
     for pat in PAT_CUERPO:
         for tipo, nombre in pat.findall(t):
             nombre = CORTES.sub("", nombre).strip(" ,")
-            if 3 <= len(nombre) <= 110 and not nombre.lower().startswith(("la ", "el ", "los ")):
+            if (3 <= len(nombre) <= 110 and not nombre.lower().startswith(("la ", "el ", "los "))
+                    and not re.search(r"Escala Especialidad|Admon|\d{3,}", f"{tipo} {nombre}")):
                 c[f"{tipo} {nombre}"] += 1
     d["cuerpo"] = "; ".join(k for k, _ in c.most_common(4)) or NO_CONSTA
 
@@ -349,20 +465,12 @@ def extraer_regex(t: str) -> dict:
             plazas.append(n)
     d["plazas"] = ", ".join(plazas[:3]) or NO_CONSTA
 
-    # Sistema
+    # Sistema: primero en el título de la disposición; si no aparece, en todo el texto
     sistemas = []
-    for patron, nombre in [
-        (r"concurso[\s-]+oposici[oó]n", "concurso-oposición"),
-        (r"(?<!concurso-)(?<!concurso )\boposici[oó]n\b", "oposición"),
-        (r"concurso de m[eé]ritos", "concurso de méritos"),
-        (r"libre designaci[oó]n", "libre designación"),
-        (r"bolsa de (?:empleo|trabajo)", "bolsa de empleo"),
-        (r"estabilizaci[oó]n", "estabilización"),
-        (r"promoci[oó]n interna", "promoción interna"),
-        (r"turno libre|acceso libre", "turno libre"),
-        (r"comisi[oó]n de servicios", "comisión de servicios"),
-        (r"interin", "interinidad"),
-    ]:
+    for patron, nombre in SISTEMAS:
+        if re.search(patron, t[:700], re.I):
+            sistemas.append(nombre)
+    for patron, nombre in ([] if sistemas else SISTEMAS):
         if re.search(patron, t, re.I):
             sistemas.append(nombre)
     d["sistema"] = ", ".join(sistemas) or NO_CONSTA
@@ -375,7 +483,10 @@ def extraer_regex(t: str) -> dict:
     if m:
         plazo = f"{m.group(1)} días {m.group(2)}"
         contexto = t[m.end(): m.end() + 350]
-        if re.search(r"Bolet[ií]n Oficial del Estado|«BOE»|BOE", contexto):
+        desde = re.match(r"\s*,?\s*((?:a contar|contad[oa]s?|computad[oa]s?|desde|a partir)[^.;]{5,160}?)(?=,\s*(?:en|ante|a trav[eé]s|mediante)\b|[.;]|$)", contexto)
+        if desde:  # se copia literal la referencia del texto
+            plazo += f" {desde.group(1).strip()}"
+        elif re.search(r"Bolet[ií]n Oficial del Estado|«BOE»|BOE", contexto):
             plazo += " desde el día siguiente a la publicación en el BOE"
         elif re.search(r"Comunidad de Madrid|BOCM", contexto, re.I):
             plazo += " desde el día siguiente a la publicación en el BOCM"
@@ -442,15 +553,31 @@ def detallar(e: Entrada, errores: list[str], incluir_tramites: bool) -> None:
         errores.append(f"{e.cve}: no encontrado")
         e.detalle = {"error": "Disposición no encontrada"}
         return
-    texto = texto_pdf(pdf, max_paginas=10)
-    d = extraer_llm(texto) or extraer_regex(texto)
-    if d.get("es_convocatoria") is False and not incluir_tramites:
+    e.detalle = analizar_pdf(pdf)
+    if e.detalle.get("es_convocatoria") is False:
         e.vacante = False  # Claude ha visto que no abre plazas
-    e.detalle = d
+
+
+def analizar_pdf(contenido: bytes) -> dict:
+    with pdfplumber.open(io.BytesIO(contenido)) as pdf:
+        texto = "\n".join((p.extract_text(x_tolerance=X_TOL) or "") for p in pdf.pages[:10])
+        try:
+            puestos = parsear_anexo_puestos(pdf)
+        except Exception as exc:  # tabla con un formato inesperado: seguimos sin ella
+            print(f"  Aviso: no se pudo leer la tabla de puestos ({exc})", file=sys.stderr)
+            puestos = []
+    d = extraer_llm(texto) or extraer_regex(texto)
+    if puestos:  # la tabla del anexo manda sobre lo extraído del texto
+        d["puestos"] = puestos
+        d["plazas"] = f"{len(puestos)} puesto{'s' if len(puestos) > 1 else ''}"
+        d["grupo"] = ", ".join(dict.fromkeys(p["grupo"] for p in puestos if p["grupo"])) or NO_CONSTA
+        d["nivel"] = ", ".join(dict.fromkeys(f"Nivel CD {p['nivel_cd']}" for p in puestos if p["nivel_cd"])) or NO_CONSTA
+        d["cuerpo"] = "ver cada puesto"
+    return d
 
 
 # --------------------------------------------------------------------------- modo alternativo
-def recorrer_disposiciones(fecha: dt.date, errores: list[str]) -> list[tuple[Entrada, str]]:
+def recorrer_disposiciones(fecha: dt.date, errores: list[str]) -> list[tuple[Entrada, bytes]]:
     """Si no hay sumario, descarga las disposiciones una a una (más lento)."""
     resultado, fallos, n = [], 0, 1
     while fallos < 8 and n < 800:
@@ -478,7 +605,7 @@ def recorrer_disposiciones(fecha: dt.date, errores: list[str]) -> list[tuple[Ent
                 e.organismo = orgs[0] if orgs else ""
             m = re.search(r"\b\d+\s+((?:RESOLUCIÓN|ORDEN|DECRETO|ANUNCIO|ACUERDO)\b.{20,400}?)(?:\.\s|$)", cab)
             e.texto = (e.texto + " " + (m.group(1) if m else "")).strip()
-            resultado.append((e, texto))
+            resultado.append((e, pdf))
         n += 1
         time.sleep(PAUSA)
     return resultado
@@ -541,6 +668,21 @@ def informe(fecha: dt.date, numero: int | None, total: int, vacantes: list[Entra
                         lineas.append(f"- **Grupo / subgrupo:** {d.get('grupo', NO_CONSTA)} · **Nivel:** {d.get('nivel', NO_CONSTA)}{nivel_ed}")
                         lineas.append(f"- **Plazas:** {d.get('plazas', NO_CONSTA)} · **Sistema:** {d.get('sistema', NO_CONSTA)}")
                         lineas.append(f"- **Plazo:** {d.get('plazo', NO_CONSTA)}")
+                        for p in d.get("puestos", []):
+                            lineas.append(f"- **Puesto {p['codigo']} – {p['denominacion'] or 'sin denominación'}**")
+                            if p["unidad"]:
+                                lineas.append(f"    - Unidad: {p['unidad']}")
+                            lineas.append(f"    - Grupo: {p['grupo'] or NO_CONSTA} · Nivel CD: {p['nivel_cd'] or NO_CONSTA}"
+                                          + (f" · C. específico: {p['especifico']}" if p["especifico"] else ""))
+                            lineas.append(f"    - Cuerpos: {'; '.join(p['cuerpos']) or NO_CONSTA}")
+                            extra = " · ".join(x for x in (
+                                f"Procedencia: {p['procedencia']}" if p["procedencia"] else "",
+                                f"Localidad: {p['localidad']}" if p["localidad"] else "",
+                                f"Jornada: {p['jornada']}" if p["jornada"] else "") if x)
+                            if extra:
+                                lineas.append(f"    - {extra}")
+                            if p["perfil"]:
+                                lineas.append(f"    - Perfil: {p['perfil']}")
                 lineas.append(f"- [{e.cve}]({e.url})")
                 lineas.append("")
 
@@ -600,7 +742,7 @@ def main() -> int:
 
     errores: list[str] = []
     entradas: list[Entrada] = []
-    textos: dict[str, str] = {}
+    pdfs: dict[str, bytes] = {}
     sumario = None
     if numero:
         try:
@@ -615,9 +757,9 @@ def main() -> int:
     if not sumario:
         modo = "sin sumario: disposición a disposición"
         print("Sumario no disponible: recorro las disposiciones una a una…")
-        for e, txt in recorrer_disposiciones(fecha, errores):
+        for e, pdf in recorrer_disposiciones(fecha, errores):
             entradas.append(e)
-            textos[e.cve] = txt
+            pdfs[e.cve] = pdf
 
     for e in entradas:
         clasificar(e)
@@ -627,8 +769,8 @@ def main() -> int:
 
     for e in vacantes:
         print(f"  · {e.cve} {e.organismo[:60]}")
-        if e.cve in textos:
-            e.detalle = extraer_llm(textos[e.cve]) or extraer_regex(textos[e.cve])
+        if e.cve in pdfs:
+            e.detalle = analizar_pdf(pdfs[e.cve])
             if e.detalle.get("es_convocatoria") is False:
                 e.vacante = False
         else:
