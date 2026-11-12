@@ -1,0 +1,127 @@
+[
+  {
+    "cve": "BOCM-20261112-3",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Concurso de méritos",
+    "texto": "Orden de 30 de octubre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 25",
+      "plazas": "1 puesto",
+      "sistema": "concurso de méritos",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de la convocatoria",
+      "puestos": [
+        {
+          "codigo": "71970",
+          "denominacion": "Sec. gestion administrativa",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Economía y Empleo Direccion General Formación Subdireccion General Cualificación y Acreditación Profesional Area de Cualificacion Profesional y Evaluacion de Competencias Servicio de Cualificación y Evaluación de las Competencias Seccion de Gestión Administrativa",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "25",
+          "especifico": "17.075,52 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Técnicos Superiores Especialistas Superior de Empleo (Admon E)",
+            "Técnicos y Diplomados Especialistas Gestión de Empleo (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/12/BOCM-20261112-3.PDF"
+  },
+  {
+    "cve": "BOCM-20261112-4",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE DIGITALIZACIÓN",
+    "suborganismo": "Agencia de Ciberseguridad de la Comunidad de Madrid",
+    "tipo": "Convocatoria proceso selectivo",
+    "texto": "Resolución 1101/2026, de 3 de noviembre, del Consejero Delegado de la Agencia de Ciberseguridad de la Comunidad de Madrid, por la que se convoca proceso selectivo para la selección de personal laboral ordinario indefinido (laboral fijo) de perfiles técnicos de ciberseguridad y de perfiles administrativos y de gestión",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "Grupo I (laboral), Grupo II (laboral), Grupo III (laboral)",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "concurso-oposición, oposición, turno libre",
+      "plazo": "diez días hábiles"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/12/BOCM-20261112-4.PDF"
+  },
+  {
+    "cve": "BOCM-20261112-5",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES",
+    "suborganismo": "",
+    "tipo": "Convocatoria selección expertos",
+    "texto": "Orden 4891/2026, de 9 de noviembre, de la Consejera de Educación, Ciencia y Universidades, por la que se convoca para el curso 2026-2027 el proceso de selección de personas expertas del sector productivo y personas expertas sénior de empresa para impartir enseñanzas en especialidades de formación profesional en centros educativos públicos no universitarios de la Comunidad de Madrid",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "concurso de méritos",
+      "plazo": "10 días hábiles contados a partir del siguiente a la publicación de esta convocatoria en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/12/BOCM-20261112-5.PDF"
+  },
+  {
+    "cve": "BOCM-20261112-6",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES",
+    "suborganismo": "",
+    "tipo": "Convocatoria selección expertos",
+    "texto": "Orden 4892/2026, de 9 de noviembre, de la Consejera de Educación, Ciencia y Universidades, por la que se convoca para el curso 2026-2027 el proceso de selección de personas expertas del sector productivo y personas expertas sénior de empresa para impartir enseñanzas en módulos profesionales de formación profesional en centros educativos públicos no universitarios de la Comunidad de Madrid",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "concurso de méritos",
+      "plazo": "10 días hábiles contados a partir del siguiente a la publicación de esta convocatoria en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/12/BOCM-20261112-6.PDF"
+  },
+  {
+    "cve": "BOCM-20261112-17",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Boadilla del Monte",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Boadilla del Monte. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "A2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "2",
+      "sistema": "oposición, turno libre",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/12/BOCM-20261112-17.PDF"
+  }
+]
