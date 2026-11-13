@@ -1,0 +1,736 @@
+[
+  {
+    "cve": "BOCM-20261113-1",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 3 de noviembre de 2026, del Consejero de Presidencia, Justicia y Administración Local, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia y Administración Local, por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "C/D (equivale a C1/C2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 18",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "47085",
+          "denominacion": "Secretaria/o de direccion",
+          "unidad": "Consejeria Presidencia, Justicia y Administración Local Viceconsejeria Presidencia y Administración Local Direccion General Inversiones y Desarrollo Local",
+          "grupo": "C/D (equivale a C1/C2)",
+          "nivel_cd": "18",
+          "especifico": "13.295,16 €",
+          "procedencia": "COMUNIDAD DE",
+          "cuerpos": [
+            "Madrid/admon.estado/ccaa/admon.loca Lvinculado a Cualquier Cuerpo O Escala"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA Y DOS TA",
+          "perfil": "- experiencia en las labores propias de secretaría · -experiencia en atención al público tanto presencial como · Telemática · - experiencia en registro, control y archivo de documentos · -experiencia en ereg y portafirmas electrónico · -experiencia en el paquete ofimático de la comunidad de · Madrid (word, excel, powerpoint e internet)"
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-1.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-2",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Convocatoria proceso selectivo",
+    "texto": "Orden 2369/2026, de 19 de octubre, de la Consejería de Economía, Hacienda y Empleo, por la que se modifica la Orden 1992/2026, de 14 de septiembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas para el ingreso, por el sistema general de acceso libre, en el Cuerpo de Técnicos Superiores de Salud Pública, Especialidad de Bioinformática, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Cuerpo de Técnicos Superiores de Salud Pública; Especialidad de Bioinformática",
+      "grupo": "A1",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "9",
+      "sistema": "turno libre",
+      "plazo": "veinte días hábiles"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-2.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-3",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Convocatoria proceso selectivo",
+    "texto": "Orden 2425/2026, de 6 de octubre, de la Consejería de Economía, Hacienda y Empleo, por la que se modifica la Orden 1991/2026, de 14 de septiembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas para el ingreso, por el sistema general de acceso libre, en el Cuerpo de Técnicos Superiores de Salud Pública, Especialidad Tecnología de los Alimentos, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Cuerpo de Técnicos Superiores de Salud Pública; Especialidad Tecnología de los Alimentos; Especialidad de Tecnología de los Alimentos",
+      "grupo": "A1",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "10",
+      "sistema": "turno libre",
+      "plazo": "veinte días hábiles"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-3.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-4",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Convocatoria proceso selectivo",
+    "texto": "Orden 2426/2026, de 6 de octubre, de la Consejería de Economía, Hacienda y Empleo, por la que se modifica la Orden 1993/2026, de 14 de septiembre, de la Consejería de Economía, Hacienda Y Empleo, por la que se convocan pruebas selectivas para el ingreso, por el sistema general de acceso libre, en el Cuerpo de Técnicos Superiores de Salud Pública, Especialidad Microbiología y Parasitología Clínica, de Administración Especial, Grupo A, Subgrupo A1, de la Comunidad de Madrid",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Cuerpo de Técnicos Superiores de Salud Pública; Especialidad Microbiología y Parasitología Clínica",
+      "grupo": "A1",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "3",
+      "sistema": "turno libre",
+      "plazo": "veinte días hábiles"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-4.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-5",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Concurso de méritos",
+    "texto": "Orden de 3 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "C/D (equivale a C1/C2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 16, Nivel CD 18",
+      "plazas": "3 puestos",
+      "sistema": "concurso de méritos",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de la convocatoria",
+      "puestos": [
+        {
+          "codigo": "32741",
+          "denominacion": "Neg. apoyo administrativo ii",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Secretaria General Tecnica Subdireccion General Personal División Personal Area Régimen Jurídico de Personal Servicio de Regimen Juridico Negociado de Apoyo Administrativo Ii",
+          "grupo": "C/D (equivale a C1/C2)",
+          "nivel_cd": "16",
+          "especifico": "8.397,36 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Administrativos de Administración General (Admon G)",
+            "Auxiliares de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "50722",
+          "denominacion": "Neg. registro",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Secretaria General Tecnica Subdireccion General Analisis y Organizacion División Análisis y Organización Area Asuntos Generales y Organización Servicio de Registro Negociado Registro",
+          "grupo": "C/D (equivale a C1/C2)",
+          "nivel_cd": "18",
+          "especifico": "9.016,56 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Administrativos de Administración General (Admon G)",
+            "Auxiliares de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "58398",
+          "denominacion": "Neg. apoyo administrativo iii",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Secretaria General Tecnica Subdireccion General Personal División Personal Area Régimen Jurídico de Personal Servicio de Gestión Administrativa I Subseccion Apoyo Administrativo I Negociado Apoyo Administrativo Iii",
+          "grupo": "C/D (equivale a C1/C2)",
+          "nivel_cd": "16",
+          "especifico": "8.397,36 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Administrativos de Administración General (Admon G)",
+            "Auxiliares de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-5.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-15",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES",
+    "suborganismo": "",
+    "tipo": "Bolsa mejora empleo laboral",
+    "texto": "Resolución de 30 de octubre de 2026, de la Dirección General de Recursos Humanos, por la que rectifican errores materiales de la Resolución de 14 de octubre de 2026, de la Dirección General de Recursos Humanos, por la que se aprueba y publica la actualización de la relación definitiva de integrantes de las bolsas de mejora para ejercer el derecho de opción a mejora de empleo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "No consta en el texto",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-15.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-16",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE VIVIENDA, TRANSPORTES E INFRAESTRUCTURAS",
+    "suborganismo": "O. A. Agencia de Vivienda Social",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 29 de octubre de 2026 del Consejero de Vivienda, Transportes e Infraestructuras, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería (Agencia de Vivienda Social), por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 29",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "6066",
+          "denominacion": "Jefe de area de fondos europeos y operaciones",
+          "unidad": "Organismo Autonomo Agencia de Vivienda Social de la Comunidad de Madrid Secretaría General Subdireccion General Coordinación Administrativa Area Fondos Europeos y Operaciones",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "29",
+          "especifico": "42.716,04 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Superior de Gestión (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Licenciado/a en derecho · Experiencia en la coordinación de equipos · Experiencia en la ejecución y seguimiento de programas de compra de viviendas destinadas al · Incremento del parque público de viviendas de la comunidad de madrid financiados con fondos · Propios, fondos estatales y fondos europeos · Experiencia en la tramitación de operaciones patrimoniales, compras, ventas, cesiones, · Permutas, adscripciones y demás negocios jurídicos relacionados con el patrimonio inmobiliario"
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-16.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-25",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE CULTURA, TURISMO Y DEPORTE",
+    "suborganismo": "",
+    "tipo": "Concurso de méritos",
+    "texto": "Orden 1995/2026, de 23 de octubre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba la convocatoria pública para la provisión de puestos de trabajo vacantes en la citada Consejería por el procedimiento de Concurso de Méritos",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "B/C (equivale a A2/C1), A/B (equivale a A1/A2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 20, Nivel CD 25, Nivel CD 24",
+      "plazas": "5 puestos",
+      "sistema": "concurso de méritos",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de la convocatoria",
+      "puestos": [
+        {
+          "codigo": "20387",
+          "denominacion": "Neg. actividades de fomento de la lectura",
+          "unidad": "Consejeria Cultura, Turismo y Deporte Viceconsejeria Cultura, Turismo y Deporte Direccion General Patrimonio Cultural y Oficina del Español Subdireccion General Libro Area del Libro y la Lectura Unidad Técnica de Programación de Actividades Seccion Actividades Culturales Negociado Actividades de Fomento de la Lectura",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "20",
+          "especifico": "9.938,76 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos y Diplomados Especialistas Ayudantes de Archivos, Bibliotecas y Museos Bibliotecas (Admon E)",
+            "Técnicos Auxiliares de Administración Especial Auxiliares de Archivos, Bibliotecas y Museos (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "63826",
+          "denominacion": "Sec. promocion de la lectura",
+          "unidad": "Consejeria Cultura, Turismo y Deporte Viceconsejeria Cultura, Turismo y Deporte Direccion General Patrimonio Cultural y Oficina del Español Subdireccion General Libro Area del Libro y la Lectura Unidad Técnica de Programación de Actividades Seccion de Promoción de la Lectura",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "25",
+          "especifico": "14.575,56 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Tec.sup.fac. de Archivos, Bibliotecas y Museos Bibliotecas (Admon E)",
+            "Técnicos y Diplomados Especialistas Ayudantes de Archivos, Bibliotecas y Museos Bibliotecas (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "63862",
+          "denominacion": "Sec. apoyo tecnico y gestion de la calidad",
+          "unidad": "Consejeria Cultura, Turismo y Deporte Viceconsejeria Cultura, Turismo y Deporte Direccion General Patrimonio Cultural y Oficina del Español Subdireccion General Libro Area Servicios Públicos de Lectura Servicio Coordinacion de Bibliotecas Publicas Seccion de Apoyo Técnico y Gestión de la Calidad",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "25",
+          "especifico": "14.575,56 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Tec.sup.fac. de Archivos, Bibliotecas y Museos Bibliotecas (Admon E)",
+            "Técnicos y Diplomados Especialistas Ayudantes de Archivos, Bibliotecas y Museos Bibliotecas (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "64831",
+          "denominacion": "Sec. fomento de la lectura",
+          "unidad": "Consejeria Cultura, Turismo y Deporte Viceconsejeria Cultura, Turismo y Deporte Direccion General Patrimonio Cultural y Oficina del Español Subdireccion General Libro Area Servicios Públicos de Lectura Biblioteca Publica \"villa de Vallecas\" Seccion Fomento de la Lectura",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "25",
+          "especifico": "14.575,56 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Tec.sup.fac. de Archivos, Bibliotecas y Museos Bibliotecas (Admon E)",
+            "Técnicos y Diplomados Especialistas Ayudantes de Archivos, Bibliotecas y Museos Bibliotecas (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "FIN SEM BIBLIOT",
+          "perfil": ""
+        },
+        {
+          "codigo": "79632",
+          "denominacion": "Subsec. subvenciones al sector del libro",
+          "unidad": "Consejeria Cultura, Turismo y Deporte Viceconsejeria Cultura, Turismo y Deporte Direccion General Patrimonio Cultural y Oficina del Español Subdireccion General Libro Area del Libro y la Lectura Unidad Tecnica Promocion del Libro y la Lectura Servicio Ayudas Al Libro Subseccion Subvenciones Al Sector del Libro",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "24",
+          "especifico": "11.281,80 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Tec.sup.fac. de Archivos, Bibliotecas y Museos Bibliotecas (Admon E)",
+            "Técnicos y Diplomados Especialistas Ayudantes de Archivos, Bibliotecas y Museos Bibliotecas (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-25.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-73",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Boadilla del Monte",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Boadilla del Monte. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Escala de Administración Especial; Subescala Técnica Media-Diplomatura en Informática",
+      "grupo": "A2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "oposición, turno libre",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-73.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-86",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Daganzo de Arriba",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Daganzo de Arriba. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "concurso-oposición, promoción interna",
+      "plazo": "20 días hábiles a contar a partir de día siguiente a la publicación del presente anuncio de la convocatoria en el “Boletín Oficial del Estado”"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-86.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-87",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Daganzo de Arriba",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Daganzo de Arriba. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "concurso-oposición, promoción interna",
+      "plazo": "20 días hábiles a contar a partir de día siguiente a la publicación del presente anuncio de la convocatoria en el “Boletín Oficial del Estado”"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-87.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-90",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Fuenlabrada",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Fuenlabrada. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "A2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "10",
+      "sistema": "concurso-oposición, promoción interna",
+      "plazo": "diez días hábiles"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-90.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-94",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Guadarrama",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Guadarrama. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "C2, C1",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "concurso-oposición, promoción interna",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-94.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-103",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Majadahonda",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Majadahonda. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "A2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "bolsa de empleo",
+      "plazo": "diez días hábiles contados a partir del día siguiente a la publicación de este anuncio en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-103.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-110",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Morata de Tajuña",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Morata de Tajuña. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "A2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "bolsa de empleo, interinidad",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-110.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-111",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Navalcarnero",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Navalcarnero. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "C2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "concurso-oposición, turno libre",
+      "plazo": "veinte días hábiles contados a partir del siguiente a la publicación de la convocatoria en el “Boletín Oficial del Estado”"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-111.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-120",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Rivas-Vaciamadrid",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Rivas-Vaciamadrid. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "concurso-oposición, turno libre",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-120.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-121",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de San Agustín del Guadalix",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Oferta empleo público",
+    "texto": "San Agustín del Guadalix. Ofertas de empleo. Oferta empleo público",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "turno libre",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-121.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-122",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de San Fernando de Henares",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "San Fernando de Henares. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "A",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "bolsa de empleo",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-122.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-126",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Torrelodones",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Torrelodones. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "C2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "oposición, turno libre, interinidad",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-126.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-127",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Torres de la Alameda",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Torres de la Alameda. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "bolsa de empleo",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-127.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-128",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Torres de la Alameda",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Torres de la Alameda. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "bolsa de empleo",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-128.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-129",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Torres de la Alameda",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Torres de la Alameda. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "bolsa de empleo",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-129.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-130",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Torres de la Alameda",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Torres de la Alameda. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "bolsa de empleo",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-130.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-131",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Torres de la Alameda",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Oferta empleo público",
+    "texto": "Torres de la Alameda. Ofertas de empleo. Oferta empleo público",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Escala de Administración General",
+      "grupo": "C1",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "14, 1",
+      "sistema": "turno libre",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-131.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-134",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Villanueva de Perales",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Villanueva de Perales. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "5",
+      "sistema": "No consta en el texto",
+      "plazo": "veinte días hábiles contados a partir del día siguiente al de la publicación del correspondiente anuncio en el “Boletín Oficial del Estado”"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-134.PDF"
+  },
+  {
+    "cve": "BOCM-20261113-135",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Villaviciosa de Odón",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Villaviciosa de Odón. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "A2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "concurso de méritos",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/13/BOCM-20261113-135.PDF"
+  }
+]
