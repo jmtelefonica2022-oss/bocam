@@ -1,0 +1,1078 @@
+[
+  {
+    "cve": "BOCM-20261117-1",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 5 de noviembre de 2026, del Consejero de Presidencia, Justicia y Administración Local, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Presidencia, Justicia y Administración Local, por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "C/D (equivale a C1/C2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 18",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "52826",
+          "denominacion": "Jefe de secretaria de alto cargo",
+          "unidad": "Consejeria Presidencia, Justicia y Administración Local Secretaria General Tecnica",
+          "grupo": "C/D (equivale a C1/C2)",
+          "nivel_cd": "18",
+          "especifico": "14.219,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Administrativos de Administración General (Admon G)",
+            "Auxiliares de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "PED Y AL - 2TA",
+          "perfil": "-experiencia en funciones de secretaria de alto cargo. · - experiencia en manejo de los programas ofimáticos de la comunidad de madird, así como de · Correo electrónico e internet. · - experiencia en el manejo y planificación de agenda electrónica y organización de reunones. · - experiencia en gestión y control de archivos y correspondencia."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-1.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-2",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL",
+    "suborganismo": "",
+    "tipo": "Concurso específico",
+    "texto": "Resolución de 4 de noviembre de 2026, de la Dirección General de Recursos Humanos y Relaciones con la Administración de Justicia de la Consejería de Presidencia, Justicia y Administración Local, por la que se convocan diversos puestos de trabajo en Oficinas Judiciales por el sistema de Concurso Específico",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Cuerpo de Auxilio Judicial",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "No consta en el texto",
+      "plazo": "diez días hábiles a contar desde el siguiente al de la publicación de la presente convocatoria en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-2.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-6",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 4 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Sanidad, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 27",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "60215",
+          "denominacion": "Consejeria medico inspector viceconsejeria direccion ordenación subdireccion inspección area",
+          "unidad": "Sanidad Sanidad General Inspección y Sanitaria General Médica y Evaluación de Evaluacion",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "27",
+          "especifico": "30.676,20 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Superior de Inspección Sanitaria Médicos de Inspección Sanitaria (Admon E)",
+            "Equivalente"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en realización de informes técnico-sanitarios. · Experiencia en realización de auditorías sanitarias. · Experiencia en manejo de herramientas informáticas de explotación de · Datos. · Formación en calidad y seguridad del paciente."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-6.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-7",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 4 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de tres puestos de trabajo vacantes en la Consejería de Vivienda, Transportes e Infraestructuras (Organismo Autónomo Agencia de Vivienda Social de la Comunidad de Madrid), de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 26",
+      "plazas": "3 puestos",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "86586",
+          "denominacion": "Organismo tecnico de vivienda inspeccion de madrid direccion división area",
+          "unidad": "Autonomo Agencia de Social de la Comunidad del Area Social Social e Inspección Inspeccion",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Vinculado a Cualquier Cuerpo O Escala (Admon A)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en la tramitación de expedientes administrativos · Experiencia en coordinación de actuaciones con otras administraciones · Públicas · Experiencia en la organización y dirección de equipos de trabajo · Experiencia en la realización de informes juridicos,contestaciones a · Suques, defensor del pueblo y pocp"
+        },
+        {
+          "codigo": "86587",
+          "denominacion": "Organismo tecnico de vivienda inspeccion de madrid direccion división area",
+          "unidad": "Autonomo Agencia de Social de la Comunidad del Area Social Social e Inspección Inspeccion",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Vinculado a Cualquier Cuerpo O Escala (Admon A)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en la tramitación de expedientes administrativos · Experiencia en coordinación de actuaciones con otras administraciones · Públicas · Experiencia en la organización y dirección de equipos de trabajo · Experiencia en la realización de informes juridicos, contestaciones a · Suques, defensor del pueblo y pocp"
+        },
+        {
+          "codigo": "86588",
+          "denominacion": "Organismo tecnico de vivienda inspeccion de madrid direccion división area",
+          "unidad": "Autonomo Agencia de Social de la Comunidad del Area Social Social e Inspección Inspeccion",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Vinculado a Cualquier Cuerpo O Escala (Admon A)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en la tramitación de expedientes administrativos · Experiencia en coordinación de actuaciones con otras administraciones · Públicas · Experiencia en la organización y dirección de equipos de trabajo · Experiencia en la realización de informes juridicos, contestaciones a · Suques, defensor del pueblo y pocp"
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-7.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-8",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 4 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de tres puestos de trabajo vacantes en la Consejería de Vivienda, Transportes e Infraestructuras (Organismo Autónomo Consorcio Regional de Transportes Públicos Regulares de Madrid), de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1), A/B (equivale a A1/A2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 27, Nivel CD 26",
+      "plazas": "3 puestos",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "17150",
+          "denominacion": "Organismo tecnico de apoyo regional públicos direccion estratégica area intercambiadores",
+          "unidad": "Autonomo Consorcio de Transportes Regulares de Madrid Planificación y Explotación Explotación de",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "27",
+          "especifico": "30.676,20 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Ingenieros y Arquitectos Superiores Ingeniería Superior Transp. Infr y M.t. (Admon E)",
+            "Ingenieros y Arquitectos Superiores Ingeniería Superior C.infr.op.tr.ur y Ot (Admon E)",
+            "Ingenieros y Arquitectos Superiores Arquitectura Superior (Admon E)",
+            "Ingenieros y Arquitectos Superiores (Admon E)",
+            "Ingeniería Superior Ind.energia y Minas Equivalente"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en control y seguimiento de infraestructuras de transporte · Público. · Experiencia en redacción de pliegos de prescripciones técnicas. · Experiencia en operación y mantenimiento de instalaciones propias de las · Infraestructuras de transporte, con especial incidencia en la ventilación, · Climatización y pcl. · Dominio de autocad y experiencia en entorno bim."
+        },
+        {
+          "codigo": "86038",
+          "denominacion": "Organismo técnico de apoyo regional públicos direccion estratégica area",
+          "unidad": "Autonomo Consorcio de Transportes Regulares de Madrid Planificación y Explotación Estudios y Proyectos",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Ingenieros y Arquitectos Superiores Ingeniería Superior C.infr.op.tr.ur y Ot (Admon E)",
+            "Ingenieros y Arquitectos Técnicos Ingeniería Técnica C.infr.op.tr.ur y Ot (Admon E)",
+            "Ingenieros y Arquitectos Superiores Ingeniería Superior Geod.geom.top.c.y Ti (Admon E)",
+            "Ingenieros y Arquitectos Técnicos (Admon E)",
+            "Ingeniería Técnica Geod.geom.top.c.y Ti Equivalente"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Conocimientos en el manejo de herramientas gis (arcgis, qgis u otras · Equivalentes), aplicadas al análisis territorial y de transporte. · Experiencia en análisis de datos, planificación urbana y estudio de redes de · Transporte, movilidad y accesibilidad, así como en el tratamiento de · Información territorial. · Experiencia en el uso de herramientas de modelización de transporte. · Conocimientos en python, r, spss o equivalentes. · Experiencia en la elaboración de pliegos de cláusulas administrativas · Particulares."
+        },
+        {
+          "codigo": "86042",
+          "denominacion": "Organismo técnico de apoyo regional públicos secretaría división administrativa",
+          "unidad": "Autonomo Consorcio de Transportes Regulares de Madrid General Coordinacion",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Superior de Gestión (Admon G)",
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Equivalente"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en la tramitación de expedientes de contratación de obras, · Servicios, suministros y concesiones. · Experiencia en la secretaría de las mesas de contratación. · Experiencia en la elaboración de pliegos de cláusulas administrativas · Particulares. · Experiencia en la gestión en la aplicación informática sap-nexus de los · Expedientes del área de contratación."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-8.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-9",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 5 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2), A (equivale a A1)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 26, Nivel CD 29",
+      "plazas": "2 puestos",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "35777",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Secretaria General Tecnica Subdireccion General Personal Area Regimen Juridico de Personal Unidad Tecnica Gestión Administrativa Servicio Gestion Economica Ii",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Superior de Gestión (Admon G)",
+            "Técnicos de Gestión de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en la gestión, tramitación y seguimiento de expedientes de modificación de la · Relación de puestos de trabajo, a través de la aplicación sirius: estructura orgánica · Experiencia en la gestión, tramitación y seguimiento de expedientes de modificación de crédito, · Derivados de expedientes de modificación de la relación de puestos de trabajo a través de la · Aplicación nexus-sap · Experiencia en el control y seguimiento de la plantilla prespuestaria"
+        },
+        {
+          "codigo": "36754",
+          "denominacion": "Jefe area asuntos generales",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Secretaria General Tecnica Subdireccion General Analisis y Organizacion Area Asuntos Generales",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "29",
+          "especifico": "42.716,04 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Superior de Gestión (Admon G)",
+            "Técnicos Superiores Especialistas Prev.ries.laborales (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en la dirección de grupos de trabajo · Experiencia en materia de asuntos generales, régimen interior y prevención de riesgos laborales · Experiencia en contratación administrativa y gestión económica y presupuestaria"
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-9.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-10",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Concurso de méritos",
+    "texto": "Orden de 6 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "B/C (equivale a A2/C1)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 22",
+      "plazas": "1 puesto",
+      "sistema": "concurso de méritos",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de la convocatoria",
+      "puestos": [
+        {
+          "codigo": "35033",
+          "denominacion": "Subsec. gestion y procedimientos",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Economía y Empleo Direccion General Comercio, Consumo y Servicios Subdireccion General Inspección de Consumo y Control del Mercado Area Inspeccion y Control del Mercado Subseccion Gestion y Procedimientos",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-10.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-12",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 6 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de varios puestos de trabajo vacantes en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2), A (equivale a A1)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 26, Nivel CD 30",
+      "plazas": "7 puestos",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "5172",
+          "denominacion": "Serv. coordinacion de sistemas de informacion",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Recursos Humanos Subdireccion General Gestión de Recursos Humanos División Coordinación de Nóminas, Seguridad Social y Sistemas de Información Servicio Coordinación de Sistemas de Información",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "29.304,60 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Técnicos de Gestión de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Mantenimiento y desarrollo del sistema de información personal sirius · Análisis, tramitación y resolución de las incidencias en las aplicaciones informáticas de · Personal · Estudio y diseño de nuevas funcionalidades en los sistemas de información de personal · Coordinación y apoyo a las consejerías en la gestión de personal a través de las aplicaciones · Informáticas de recursos humanos"
+        },
+        {
+          "codigo": "40044",
+          "denominacion": "Serv. coordinacion rpt v",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Recursos Humanos Subdireccion General Gestión de Recursos Humanos División Estructuras Orgánicas y Rpt Area Coordinación Rpt Iii Servicio Coordinación de Rpt V",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "29.304,60 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Técnicos de Gestión de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en seguimiento, actualización y control de las estructuras orgánicas de primer · Nivel de la comunidad de madrid · Experiencia en tramitación y control de expedientes de modificación de la relación de puestos de · Trabajo y de la plantilla presupuestaria, así como de expedientes de modificación de crédito que · Afecten a capítulo i · Experiencia en elaboración del anteproyecto de presupuesto de gastos de capítulo i · Experiencia en elaboración de informes que puedan implicar coste económico en el presupuesto · De gastos de capítulo i de la comunidad de madrid"
+        },
+        {
+          "codigo": "51361",
+          "denominacion": "Serv. gestion de seguridad social i",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Recursos Humanos Subdireccion General Gestión de Recursos Humanos División Coordinación de Nóminas, Seguridad Social y Sistemas de Información Servicio Gestion de Seguridad Social I",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "30.682,92 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Vinculado a Cualquier Cuerpo O Escala (Admon A)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en tramitación de expedientes de seguridad social · Experiencia en gestión de ficheros siltra para la cotización de empleados a la seguridad social · Experiencia en gestión de documentos contables nexus de costes de seguros sociales · Experiencia en gestión de expedientes de incapacidad temporal e incapacidad permanente de · Seguridad social"
+        },
+        {
+          "codigo": "62757",
+          "denominacion": "Serv. coordinacion rpt iv",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Recursos Humanos Subdireccion General Gestión de Recursos Humanos División Estructuras Orgánicas y Rpt Area Coordinación Rpt I Servicio Coordinación de Rpt Iv",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "29.304,60 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Técnicos de Gestión de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en seguimiento, actualización y control de las estructuras orgánicas de primer · Nivel de la comunidad de madrid · Experiencia en tramitación y control de expedientes de modificación de la relación de puestos de · Trabajo y de la plantilla presupuestaria, así como de expedientes de modificación de créditos · Que afecten a capítulo i · Experiencia en elaboración del anteproyecto de presupuesto de gastos de capítulo i · Experiencia en elaboración de informes que puedan implicar coste económico en el presupuesto · De gastos de capítulo i de la comunidad de madrid"
+        },
+        {
+          "codigo": "62758",
+          "denominacion": "Serv. analisis de costes de personal",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Recursos Humanos Subdireccion General Gestión de Recursos Humanos Area Costes de Personal Servicio Análisis de Costes de Personal",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "29.304,60 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Técnicos de Gestión de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en la elaboración de informes de proyección de gasto de la comunidad de madrid · Experiencia en la tramitación y control de expedientes de modificaciones presupuestarias 320 y"
+        },
+        {
+          "codigo": "75412",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Recursos Humanos Subdireccion General Régimen Jurídico y Registro de Personal División Registro de Personal y Registros de Altos Cargos",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Superior de Gestión (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Inscripción y anotación en la base de datos de registro de personal (sire) de actos de historia · Profesional de personal al servicio de la comunidad de madrid · Extudio y gestión de incidencias informáticas con madrid digital relativas a la aplicación de · Registro de personal (sire) · Colaboración en la organización de procesos de gestión y explotación de datos de historia · Profesional de personal al servicio de la comunidad de madrid · Apoyo a la división de registro de personal y registro de altos cargos"
+        },
+        {
+          "codigo": "87891",
+          "denominacion": "Jefe de division de regimen juridico y recursos",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Recursos Humanos Subdireccion General Régimen Jurídico y Registro de Personal División Régimen Jurídico y Recursos",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "30",
+          "especifico": "44.539,92 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Superior de Gestión (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Elaboración de informes jurídicos en materia de recursos humanos · Experiencia en la elaboración, tramitación y coordinación de proyectos normativos y · Organizativos en materia de recursos humanos · Experiencia en tramitación y coordinación de recursos administrativos y procedimientos · Contencioso-administrativos, así como conocimientos de jurisdicción social, en materia de · Recursos humanos · Experiencia en tramitación y coordinación de expedientes de transparencia en materia de · Recursos humanos · Titulación universitaria en derecho"
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-12.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-13",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 6 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 28",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "29879",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Economía y Empleo Direccion General Economía e Industria Subdireccion General Análisis Económico Area Economia",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "28",
+          "especifico": "31.585,68 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Superior de Gestión (Admon G)",
+            "Técnicos Superiores Especialistas Estadistica (Admon E)",
+            "Ingenieros y Arquitectos Superiores Ingeniería Superior Ind.energia y Minas (Admon E)",
+            "Equivalente"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Conocimientos avanzados de excel. · Conocimientos y experiencia en herramientas estadísticas (spss, e-views,...) · Conocimientos en programación en r y/o python dirigido al análisis estadístico. · Experiencia en análisis de datos, preferiblemente de naturaleza económica. · Licenciado en matemáticas, economía, administración de empresas, ingeniería o cualquier otra · Titulación complementada con estudios de posgrado en economía y/o ciencia de datos."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-13.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-14",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Concurso de méritos",
+    "texto": "Orden de 6 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "B/C (equivale a A2/C1)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 20, Nivel CD 22",
+      "plazas": "5 puestos",
+      "sistema": "concurso de méritos",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de la convocatoria",
+      "puestos": [
+        {
+          "codigo": "34626",
+          "denominacion": "Neg. liquidacion i",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Tributos Subdireccion General Gestion Tributaria División Coordinacion de Liquidacion de Tributos Negociado Liquidacion I",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "20",
+          "especifico": "9.938,76 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "34629",
+          "denominacion": "Subsec. notificaciones i",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Tributos Subdireccion General Gestion Tributaria Area Apoyo a la Gestion Tributaria Servicio Notificaciones Subseccion Notificaciones I",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "40052",
+          "denominacion": "Subsec. recepcion i",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Tributos Subdireccion General Gestion Tributaria División Coordinacion de Informacion y Atencion Al Contribuyente Subseccion Recepción I",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "51914",
+          "denominacion": "Subsec. procedimientos sancionadores",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Tributos Subdireccion General Gestion Tributaria División Coordinacion de Recursos y Procedimientos Especiales de Gestion Area Recursos y Procedimientos Especiales Servicio Procedimientos Especiales Subseccion Procedimientos Sancionadores",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "51925",
+          "denominacion": "Subsec. reembolso de costes de garantias",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Tributos Subdireccion General Gestion Tributaria División Coordinacion de Recursos y Procedimientos Especiales de Gestion Servicio Recursos y Tasacion Pericial Contradictoria Subseccion Reembolso de Costes de Garantias",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-14.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-20",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden 4849/2026, de 5 de noviembre, de la Consejera de Educación, Ciencia y Universidades, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 26",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "95566",
+          "denominacion": "Serv. regimen juridico de personal",
+          "unidad": "Consejeria Educación, Ciencia y Universidades Viceconsejeria Política y Organización Educativa Direccion del Area Territorial de Madrid-capital División Secretaría General Area Personal Servicio Régimen Jurídico de Personal",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "29.304,60 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Superior de Gestión (Admon G)",
+            "Técnicos de Gestión de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "- licenciatura o grado en derecho. · - experiencia y conocimiento del régimen jurídico del empleo público. · - experiencia en informes y propuestas jurídicas de personal, en tramitación de recursos · Administrativos y ejecución de resoluciones judiciales. · - experiencia en coordinación y supervisión de equipos en gestión de procesos selectivos. · - experiencia en coordinar la gestión de procedimientos de situaciones administrativas, provisión · De puestos y administración de personal empleado público. · - experiencia en el uso avanzado de las aplicaciones informáticas excel y access."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-20.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-23",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE SANIDAD",
+    "suborganismo": "Hospital General Universitario “Gregorio Marañón”",
+    "tipo": "Convocatoria puesto",
+    "texto": "Resolución de 20 de octubre de 2026, de la Dirección-Gerencia del Hospital General Universitario “Gregorio Marañón” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Servicio de Cirugía Ortopédica y Traumatología en este centro asistencial para su cobertura mediante nombramiento provisional",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Categoría Especialidad Situación administrativa desde la",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "libre designación, interinidad",
+      "plazo": "10 días hábiles a contar desde el siguiente al de la publicación de la Resolución, para subsanar los defectos apreciados, disponible tanto en la página web www"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-23.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-24",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE SANIDAD",
+    "suborganismo": "Hospital Universitario “La Paz”",
+    "tipo": "Convocatoria puesto",
+    "texto": "Resolución de 30 de octubre de 2026, de la Dirección-Gerencia del Hospital Universitario “La Paz” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Servicio de Farmacología Clínica en este centro asistencial para su cobertura mediante nombramiento provisional",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Categoría Especialidad Situación administrativa desde la",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "libre designación, interinidad",
+      "plazo": "10 días hábiles a contar desde el siguiente al de la publicación de la Resolución, para subsanar los defectos apreciados, disponible tanto en la página web: www"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-24.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-25",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE SANIDAD",
+    "suborganismo": "Hospital Universitario “12 de Octubre”",
+    "tipo": "Convocatoria puesto",
+    "texto": "Resolución de 21 de octubre de 2026, de la Dirección-Gerencia del Hospital Universitario “12 de Octubre” del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Sección de Medicina Interna con perfil en Hospitalización y Consultas Generales de Medicina Interna en este centro asistencial para su cobertura mediante nombramiento provisional",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Categoría Especialidad Situación administrativa desde la",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "libre designación, interinidad",
+      "plazo": "10 días hábiles a contar desde el siguiente al de la publicación de la Resolución, para subsanar los defectos apreciados, disponible tanto en la página web www"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-25.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-26",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE SANIDAD",
+    "suborganismo": "Hospital Universitario “Severo Ochoa”",
+    "tipo": "Convocatoria puesto",
+    "texto": "Resolución de 28 de octubre de 2026, de la Dirección-Gerencia del Hospital Universitario “Severo Ochoa”, del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Sección de Pediatría/Neonatología en este centro asistencial para su cobertura mediante nombramiento provisional",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Categoría Especialidad Situación administrativa desde la",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "libre designación, interinidad",
+      "plazo": "10 días hábiles a contar desde el siguiente al de la publicación de la Resolución, para subsanar los defectos apreciados, disponible tanto en la página web www"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-26.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-27",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE SANIDAD",
+    "suborganismo": "Hospital Universitario de Móstoles",
+    "tipo": "Convocatoria puesto",
+    "texto": "Resolución de 23 de octubre de 2026, de la Dirección-Gerencia del Hospital Universitario de Móstoles del Servicio Madrileño de Salud, por la que se convoca un puesto de Jefe/a de Servicio de Otorrinolaringología en este centro asistencial para su cobertura mediante nombramiento provisional",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "libre designación, interinidad",
+      "plazo": "10 días hábiles a contar desde el siguiente al de la publicación de la Resolución, para subsanar los defectos apreciados, disponible tanto en la página web www"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-27.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-29",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE FAMILIA, JUVENTUD Y ASUNTOS SOCIALES",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 6 de noviembre de 2026, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Asuntos Sociales, por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 26",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "63623",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Consejeria Familia, Juventud y Asuntos Sociales Viceconsejeria Familia, Juventud y Asuntos Sociales Direccion General Infancia, Familia y Fomento de la Natalidad Subdireccion General Familia y Fomento de la Natalidad Area de Familias Servicio de Apoyo a las Familias",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Técnicos y Diplomados Especialistas Asistentes Sociales (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en la tramitación de procedimientos administrativos. · Experiencia en preparación y elaboración de informes técnicos. · Experiencia en tramitación de subvenciones y en elaboración de propuestas de contratación."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-29.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-30",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE CULTURA, TURISMO Y DEPORTE",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden 2084/2026, de 3 de noviembre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 26",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "47706",
+          "denominacion": "Serv. gestion de programas ii",
+          "unidad": "Consejeria Cultura, Turismo y Deporte Viceconsejeria Cultura, Turismo y Deporte Direccion General Patrimonio Cultural y Oficina del Español Subdireccion General Gestión Económico-administrativa Area Gestión y Coordinación de Programas Servicio Gestion de Programas Ii",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "29.304,60 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Superior de Gestión (Admon G)",
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Equivalente"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA Y 2 TARD",
+          "perfil": "Experiencia en tramitación de expedientes de contratación administrativa, en todas sus fases. · Experiencia en gestión de subvenciones. · Experiencia en gestión económico-presupuestaria. · Experiencia en gestión y coordinación de procedimientos administrativos. · Experiencia en gestión y coordinación de equipos de trabajo."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-30.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-31",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE CULTURA, TURISMO Y DEPORTE",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden 2105/2026, de 5 de noviembre, de la Consejería de Cultura, Turismo y Deporte, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería, por el procedimiento de Libre Designación .",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 26",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "47713",
+          "denominacion": "Serv. proyectos",
+          "unidad": "Consejeria Cultura, Turismo y Deporte Viceconsejeria Cultura, Turismo y Deporte Direccion General Infraestructuras Subdireccion General Infraestructuras División de Mantenimiento, Proyectos y Obras Area de Mantenimiento Servicio Proyectos",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "29.304,60 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Ingenieros y Arquitectos Superiores Arquitectura Superior (Admon E)",
+            "Ingenieros y Arquitectos Técnicos Arquitectura Técnica (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA Y 2 TARD",
+          "perfil": "Experiencia acreditada en la gestión de trabajos de mantenimiento de edificios públicos, · Dirección, seguimiento y control de obras, incluyendo coordinación de empresas contratistas y · Control de plazos, costes, seguridad y calidad. · Conocimientos en contratación pública, especialmente en la gestión y seguimiento de contratos · De obras y servicios · Experiencia en coordinación técnica con otras administraciones públicas, organismos y · Empresas adjudicatarias."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-31.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-32",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+    "suborganismo": "",
+    "tipo": "Convocatoria proceso selectivo",
+    "texto": "Resolución de 3 de noviembre de 2026, de la Universidad Complutense de Madrid, por la que se convocan procesos selectivos para ingreso, por el sistema general de acceso libre, en Escalas del Subgrupo A2, del Subgrupo C1 y del Subgrupo C2",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Escala Auxiliar Administrativa; Escala de Gestión Universitaria; Escala de Ayudantes de Archivos; Escala Técnica Auxiliar de Biblioteca",
+      "grupo": "A2, C1, C2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "5, 27, 48",
+      "sistema": "turno libre",
+      "plazo": "veinte días hábiles desde el día siguiente a la publicación en el BOCM"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-32.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-34",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "UNIVERSIDAD DE ALCALÁ",
+    "suborganismo": "",
+    "tipo": "Concurso cuerpos docentes",
+    "texto": "Resolución de 9 de noviembre de 2026, de la Universidad de Alcalá, por la que se convoca concurso de acceso a plazas de funcionario/as de carrera de los cuerpos docentes universitarios",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "No consta en el texto",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-34.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-82",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Alcorcón",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Alcorcón. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "concurso-oposición",
+      "plazo": "5 días hábiles"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-82.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-87",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Arroyomolinos",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Arroyomolinos. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "9, 15",
+      "sistema": "No consta en el texto",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-87.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-89",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Bustarviejo",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Oferta empleo público",
+    "texto": "Bustarviejo. Ofertas de empleo. Oferta empleo público",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "2",
+      "sistema": "concurso-oposición, turno libre",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-89.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-100",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Navacerrada",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Navacerrada. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "C1",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "bolsa de empleo",
+      "plazo": "20 días hábiles a contar desde el día siguiente a la publicación del nuevo anuncio en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-100.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-101",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Navacerrada",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Navacerrada. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "concurso de méritos, bolsa de empleo",
+      "plazo": "20 días hábiles a contar desde el día siguiente a la publicación del nuevo anuncio en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-101.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-106",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Parla",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Parla. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "concurso-oposición, turno libre",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-106.PDF"
+  },
+  {
+    "cve": "BOCM-20261117-112",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de San Fernando de Henares",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "San Fernando de Henares. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "A",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "bolsa de empleo",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/17/BOCM-20261117-112.PDF"
+  }
+]
