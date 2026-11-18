@@ -1,0 +1,419 @@
+[
+  {
+    "cve": "BOCM-20261118-2",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE PRESIDENCIA, JUSTICIA Y ADMINISTRACIÓN LOCAL",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Resolución de 13 de noviembre de 2026, de la Dirección General de Recursos Humanos y Relaciones con la Administración de Justicia, de la Consejería de Presidencia, Justicia y Administración Local, por la que se convoca para la provisión de dos puestos singularizados en la Fiscalía Superior de la Comunidad de Madrid, por el sistema de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Cuerpo de Tramitación Procesal y Administrativa destinados en cualquier Administración",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "2",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde el siguiente al de la publicación de la presente convocatoria en el BOLETÍN OFI- CIAL DE LA COMUNIDAD DE MADRID"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/18/BOCM-20261118-2.PDF"
+  },
+  {
+    "cve": "BOCM-20261118-3",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Concurso de méritos",
+    "texto": "Orden de 6 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Economía, Hacienda y Empleo por el procedimiento de Concurso de Méritos",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "B/C (equivale a A2/C1)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 22, Nivel CD 20",
+      "plazas": "5 puestos",
+      "sistema": "concurso de méritos",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de la convocatoria",
+      "puestos": [
+        {
+          "codigo": "34728",
+          "denominacion": "Responsable tributario i",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Tributos Subdireccion General Gestion Tributaria Area Apoyo a la Gestion Tributaria Servicio Oficinas Liquidadoras",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "34766",
+          "denominacion": "Subsec. apoyo administrativo viii",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Tributos Subdireccion General Administración Económico-financiera y Seguimiento de los Ingresos Area Ingresos Publicos Subseccion Apoyo Administrativo Viii",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "45527",
+          "denominacion": "Neg. devoluciones vii",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Tributos Subdireccion General Gestion Tributaria División Coordinacion de Recursos y Procedimientos Especiales de Gestion Servicio Devolucion de Ingresos Negociado Devoluciones Vii",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "20",
+          "especifico": "9.938,76 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "51956",
+          "denominacion": "Responsable tributario i",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Tributos Subdireccion General Gestion Tributaria",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        },
+        {
+          "codigo": "51973",
+          "denominacion": "Subsec. fraccionamientos y aplazamientos i",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Hacienda y Función Pública Direccion General Tributos Subdireccion General Gestion Tributaria División Coordinacion de Recursos y Procedimientos Especiales de Gestion Area Recursos y Procedimientos Especiales Servicio Fraccionamientos y Aplazamientos Subseccion Fraccionamientos y Aplazamientos I",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "11.846,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA",
+          "perfil": ""
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/18/BOCM-20261118-3.PDF"
+  },
+  {
+    "cve": "BOCM-20261118-4",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 10 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Digitalización, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 26",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "36956",
+          "denominacion": "Consejeria serv. regimen secretaria interior y obras subdireccion organización area generales servicio obras",
+          "unidad": "Digitalización General Técnica General Análisis y Gestión de Asuntos Régimen Interior y",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "29.304,60 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Ingenieros y Arquitectos Superiores Ingeniería Superior Ind.energia y Minas (Admon E)",
+            "Ingenieros y Arquitectos Superiores Arquitectura Superior (Admon E)",
+            "Ingenieros y Arquitectos Técnicos Ingeniería Técnica Ind.energia y Minas (Admon E)",
+            "Ingenieros y Arquitectos Técnicos (Admon E)",
+            "Arquitectura Técnica",
+            "Equivalente"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ Y 2 TARDES",
+          "perfil": "Experiencia en la gestión, detección de necesidades de medios materiales de · Edificios públicos y seguimiento de los planes de mantenimiento necesarios · Para el funcionamiento de la consejería · Experiencia en la planificación de actuaciones en materia de prevención de · Riesgos laborales y atención continuada a las incidencias de régimen · Interior · Experiencia en tramitación y seguimiento de contratos de servicios y de · Obras, elaboración de informes técnicos, memorias y presupuestos. · Control de las inspecciones oficiales y del inventario de las instalaciones · Y de los equipos · Conocimientos en herramientas informáticas de dibujo asistido por · Ordenador"
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/18/BOCM-20261118-4.PDF"
+  },
+  {
+    "cve": "BOCM-20261118-5",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 10 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Cultura, Turismo y Deporte, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 26",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "3757",
+          "denominacion": "Consejeria serv. deporte arquitectura viceconsejeria turismo direccion cultural subdireccion patrimonio area restauración servicio",
+          "unidad": "Cultura, Turismo y Cultura, y Deporte General Patrimonio y Oficina del Español General Histórico de Conservación y de Arquitectura",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "29.304,60 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Ingenieros y Arquitectos Superiores Arquitectura Superior (Admon E)",
+            "Ingenieros y Arquitectos Técnicos Arquitectura Técnica (Admon E)",
+            "Equivalente"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑANA Y 2 TARD",
+          "perfil": "Experiencia en el seguimiento técnico de proyectos y direcciones de obra. · Experiencia en el seguimiento técnico de subvenciones. · Experiencia en la elaboración y tramitación de certificaciones y facturas · De obras. · Experiencia y formación en materia de restauración y conservación de · Edificios históricos."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/18/BOCM-20261118-5.PDF"
+  },
+  {
+    "cve": "BOCM-20261118-10",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Bolsa única personal laboral",
+    "texto": "Resolución de 10 de noviembre de 2026, de la Dirección General de Función Pública, por la que se declara finalizado el procedimiento de constitución del primer bloque de la bolsa única permanentemente abierta de Titulado Superior Especialista, Especialidad de Psiquiatría (Grupo I, Nivel 10, Área D) de la Comunidad de Madrid y se acuerda el archivo de las actuaciones",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "categoría profesional de Titulado Superior Especialista; Especialidad de Psiquiatría; especialidad de Psiquiatría",
+      "grupo": "Grupo I (laboral), Nivel 10, Área D",
+      "nivel_educativo": "",
+      "nivel": "Nivel 10",
+      "plazas": "No consta en el texto",
+      "sistema": "bolsa de empleo, estabilización, turno libre",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/18/BOCM-20261118-10.PDF"
+  },
+  {
+    "cve": "BOCM-20261118-11",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Bolsa única personal laboral",
+    "texto": "Resolución de 10 de noviembre de 2026, de la Dirección General de Función Pública, por la que se aprueba y publica la constitución del primer bloque de la bolsa única permanentemente abierta a efectos de contrataciones temporales de la categoría profesional de Titulado Superior (Grupo I, Nivel 9, Área B) de la Comunidad de Madrid",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "categoría profesional de Titulado Superior",
+      "grupo": "Grupo I (laboral), Nivel 9, Área B",
+      "nivel_educativo": "",
+      "nivel": "Nivel 9",
+      "plazas": "No consta en el texto",
+      "sistema": "bolsa de empleo, estabilización, turno libre",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/18/BOCM-20261118-11.PDF"
+  },
+  {
+    "cve": "BOCM-20261118-12",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES",
+    "suborganismo": "",
+    "tipo": "Convocatoria proceso selectivo",
+    "texto": "Resolución de 3 de noviembre de 2026, de la Dirección General de Recursos Humanos, por la que se convoca procedimiento de ingreso al Cuerpo de Catedráticos de Música y Artes Escénicas",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Cuerpo de Catedráticos de Música y Artes Escénicas; Cuerpo de Catedráticos de Música y Artes Escénicas será necesario estar en posesión del título de doctor; Cuerpo de Catedráticos de Música y Artes Escénicas vinculado a las enseñanzas de arte dramático; Cuerpo de Catedráticos de Música y Artes Escénicas vinculado a las Enseñanzas de Arte Dramático",
+      "grupo": "A1",
+      "nivel_educativo": "Secundaria / EOI / Música y Artes Escénicas / Artes Plásticas",
+      "nivel": "No consta en el texto",
+      "plazas": "34, 14, 29",
+      "sistema": "No consta en el texto",
+      "plazo": "20 días hábiles desde el día siguiente al de la publicación de la presente resolución en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/18/BOCM-20261118-12.PDF"
+  },
+  {
+    "cve": "BOCM-20261118-57",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Alcalá de Henares",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Alcalá de Henares. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "concurso-oposición",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/18/BOCM-20261118-57.PDF"
+  },
+  {
+    "cve": "BOCM-20261118-58",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Alcobendas",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Alcobendas. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "A2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "2",
+      "sistema": "oposición",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/18/BOCM-20261118-58.PDF"
+  },
+  {
+    "cve": "BOCM-20261118-61",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Boadilla del Monte",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Boadilla del Monte. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "A2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "2",
+      "sistema": "concurso-oposición, oposición, turno libre",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/18/BOCM-20261118-61.PDF"
+  },
+  {
+    "cve": "BOCM-20261118-68",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Getafe",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Oferta empleo público",
+    "texto": "Getafe. Ofertas de empleo. Oferta empleo público",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "5",
+      "sistema": "promoción interna, turno libre",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/18/BOCM-20261118-68.PDF"
+  },
+  {
+    "cve": "BOCM-20261118-71",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Majadahonda",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Majadahonda. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "A2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "libre designación",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/18/BOCM-20261118-71.PDF"
+  },
+  {
+    "cve": "BOCM-20261118-73",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Navalcarnero",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Navalcarnero. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "C1",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "concurso-oposición, turno libre",
+      "plazo": "veinte días hábiles contados a partir del siguiente a la publicación de la convocatoria en el “Boletín Oficial del Estado”"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/18/BOCM-20261118-73.PDF"
+  },
+  {
+    "cve": "BOCM-20261118-79",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de San Fernando de Henares",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "San Fernando de Henares. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "A2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "turno libre",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/18/BOCM-20261118-79.PDF"
+  }
+]
