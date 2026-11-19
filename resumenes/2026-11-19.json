@@ -1,0 +1,205 @@
+[
+  {
+    "cve": "BOCM-20261119-5",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden 4921/2026, de 11 de noviembre, de la Consejera de Educación, Ciencia y Universidades, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Educación, Ciencia y Universidades, por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 29",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "1931",
+          "denominacion": "Técnico de apoyo",
+          "unidad": "Consejeria Educación, Ciencia y Universidades Secretaria General Tecnica Subdireccion General Personal",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "29",
+          "especifico": "39.393,24 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Vinculado a Cualquier Cuerpo O Escala (Admon A)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "- licenciatura o grado en derecho. · - experiencia en gestión de recursos humanos. · - experiencia en procedimientos de provisión de puestos de trabajo de personal funcionario. · - experiencia en elaboración de informes jurídicos en materia de personal · - experiencia en la utilización de la aplicación informática sirius, módulos sirid y prov."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/19/BOCM-20261119-5.PDF"
+  },
+  {
+    "cve": "BOCM-20261119-7",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE VIVIENDA, TRANSPORTES E INFRAESTRUCTURAS",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 6 de noviembre de 2026, del Consejero de Vivienda, Transportes e Infraestructuras, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería (Agencia de Vivienda Social) por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 26",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "37386",
+          "denominacion": "Serv. gestion de suelo",
+          "unidad": "Organismo Autonomo Agencia de Vivienda Social de la Comunidad de Madrid Secretaría General Subdireccion General Coordinación Administrativa Area Patrimonio y Actuaciones en Materia de Suelo Servicio Gestión de Suelo",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "29.304,60 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Ingenieros y Arquitectos Superiores Arquitectura Superior (Admon E)",
+            "Ingenieros y Arquitectos Técnicos Arquitectura Técnica (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en redacción de proyectos de agrupación, parcelación y segregación de fincas. · Experiencia en redacción de informes técnicos en materia de vivienda protegida, planeamiento y · Gestión urbanística, con especial atención a los nuevos desarrollos urbanísticos de la · Comunidad de madrid. · Experiencia en estuido, analisis e inspeccion de proyectos de nuevas promociones para apoyo · Tecnico de elaboración de los documentos de obra nueva y división horizontal y apoyo tecnico · Para adquisición de vivienda para la avs · Experiencia en estudios patrimoniales, registrales y catastrales de fincas rústicas y urbanas."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/19/BOCM-20261119-7.PDF"
+  },
+  {
+    "cve": "BOCM-20261119-12",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "UNIVERSIDAD DE ALCALÁ",
+    "suborganismo": "",
+    "tipo": "Concurso cuerpos docentes",
+    "texto": "Resolución de 10 de noviembre de 2026 de la Universidad de Alcalá, por la que se convoca concurso de acceso a plazas de funcionario/as de carrera de los cuerpos docentes universitarios",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "No consta en el texto",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/19/BOCM-20261119-12.PDF"
+  },
+  {
+    "cve": "BOCM-20261119-34",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Alcobendas",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Alcobendas. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "A2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "concurso-oposición, turno libre",
+      "plazo": "veinte días hábiles contados a partir del siguiente al de la publicación en el “Boletín Oficial del Estado” de la convocatoria"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/19/BOCM-20261119-34.PDF"
+  },
+  {
+    "cve": "BOCM-20261119-35",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Alcobendas",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Alcobendas. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Escala de Administración Especial; Subescala Servicios Especiales; Clase Auxiliares Técnicos",
+      "grupo": "C1",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "concurso-oposición, promoción interna",
+      "plazo": "veinte días hábiles contados a partir del siguiente al de la publicación en el “Boletín Oficial del Estado” de la convocatoria"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/19/BOCM-20261119-35.PDF"
+  },
+  {
+    "cve": "BOCM-20261119-41",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Colmenar Viejo",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Colmenar Viejo. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "C1",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "concurso-oposición",
+      "plazo": "veinte días hábiles contados a partir del siguiente al de la fecha de publicación de anuncio de esta convocatoria en el “Boletín Oficial del Estado”"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/19/BOCM-20261119-41.PDF"
+  },
+  {
+    "cve": "BOCM-20261119-42",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Colmenar Viejo",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Colmenar Viejo. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Escala Administración Especial; Subescala Técnica Superior",
+      "grupo": "A1",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "oposición",
+      "plazo": "veinte días hábiles contados a partir del siguiente al de la fecha de publicación de anuncio de esta convocatoria en el “Boletín Oficial del Estado”"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/19/BOCM-20261119-42.PDF"
+  },
+  {
+    "cve": "BOCM-20261119-48",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Majadahonda",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Majadahonda. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "C2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "bolsa de empleo",
+      "plazo": "diez días hábiles contados a partir del día siguiente a la publicación de este anuncio en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/19/BOCM-20261119-48.PDF"
+  }
+]
