@@ -1,0 +1,384 @@
+[
+  {
+    "cve": "BOCM-20261120-1",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 11 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Digitalización, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 29",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "41304",
+          "denominacion": "Consejeria jefe de area de viceconsejeria gestion y calidad direccion area",
+          "unidad": "Digitalización Digitalización General Salud Digital Gestión y Calidad",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "29",
+          "especifico": "42.716,04 €",
+          "procedencia": "C.MADRID/ADMON.ESTADO/CCAA/ESTATUTARIO",
+          "cuerpos": [
+            "Vinculado a Cualquier Cuerpo O Escala (Admon A)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ Y 2 TARDES",
+          "perfil": "Licenciatura o grado en derecho, ciencias económicas o similar, · Valorándose formación especializada en contratación pública y gestión · Presupuestaria · Experiencia en contratación pública y la gestión económico- · Presupuestaria, preferiblemente en el ámbito sanitario · Experiencia en la elaboración, ejecución y seguimiento de presupuestos · Públicos · Conocimiento de las aplicaciones de gestión de la comunidad de madrid, · Especialmente nexus · Coordinación y dirección de equipos de trabajo"
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/20/BOCM-20261120-1.PDF"
+  },
+  {
+    "cve": "BOCM-20261120-4",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE SANIDAD",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden 1804/2026, de 11 de noviembre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Sanidad por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 26",
+      "plazas": "7 puestos",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "25185",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Consejeria Sanidad Viceconsejeria Sanidad Direccion General Salud Pública Subdireccion General Seguridad Alimentaria y Sanidad Ambiental Area Calidad y Coordinación Unidad Tecnica de Coordinación y Apoyo",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Salud Pública Farmacia (Admon E)",
+            "Técnicos Superiores de Salud Pública Veterinaria (Admon E)",
+            "Diplomados de Salud Pública Salud Pública Enfermeria (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en la detección de necesidades y validación del funcionamiento de sistemas de · Información en materia de seguridad alimentaria y sanidad ambiental. · Experiencia en la detección de necesidades y propuesta de trámites para sede electrónica. · Experiencia en elaboración de memorias, planes, informes y otros documentos técnicos. · Experiencia en el procesamiento de datos de los sistemas de información para evaluaciones y · Cuadro de mando. · Experiencia en edición de contenidos en intranet y web corporativas."
+        },
+        {
+          "codigo": "35505",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Consejeria Sanidad Viceconsejeria Sanidad Direccion General Salud Pública Subdireccion General Seguridad Alimentaria y Sanidad Ambiental Area Calidad y Coordinación Unidad Tecnica de Coordinación y Apoyo",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Salud Pública Veterinaria (Admon E)",
+            "Técnicos Superiores de Salud Pública Farmacia (Admon E)",
+            "Diplomados de Salud Pública Salud Pública Enfermeria (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en edición de contenidos en intranet y web corporativas. · Experiencia en elaboración de memorias, planes, informes y otros documentos técnicos. · Experiencia en la gestión y coordinación de actividades de formación. · Experiencia en tramitación de solicitudes de acceso a la información pública recibidas en la · Dirección general de salud pública y atención al ciudadano. · Experiencia en el procesamiento de datos de los sistemas de información para evaluaciones y · Cuadro de mando."
+        },
+        {
+          "codigo": "52396",
+          "denominacion": "Técnico de apoyo",
+          "unidad": "Consejeria Sanidad Viceconsejeria Sanidad Direccion General Salud Pública Subdireccion General Prevención y Promoción de la Salud Area de Prevención Unidad Tecnica de Programas de Cribado Poblacional Servicio de Cribados",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Salud Pública Medicina y Cirugía (Admon E)",
+            "Técnicos Superiores de Salud Pública Farmacia (Admon E)",
+            "Diplomados de Salud Pública Salud Pública Enfermeria (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en apoyo al seguimiento y coordinación de programas de cribado neonatal. · Experiencia en apoyo al desarrollo y gestión de sistemas de información en salud pública. · Experiencia en manejo de aplicaciones estadísticas y análisis de datos en relación con · Actividades de cribado. · Formación de postgrado en ciencias de la salud."
+        },
+        {
+          "codigo": "58490",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Consejeria Sanidad Viceconsejeria Sanidad Direccion General Salud Pública Subdireccion General Seguridad Alimentaria y Sanidad Ambiental Area Calidad y Coordinación Unidad Tecnica de Coordinación y Apoyo",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Salud Pública Veterinaria (Admon E)",
+            "Técnicos Superiores de Salud Pública C.experimentales (Admon E)",
+            "Técnicos Superiores Especialistas C.humanisticas-soc. (Admon E)",
+            "Diplomados de Salud Pública Salud Pública Enfermeria (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en la detección de necesidades y validación del funcionamiento de sistemas de · Información en materia de seguridad alimentaria y sanidad ambiental. · Experiencia en elaboraciónn de memorias, planes, informes y otros documentos técnicos. · Experiencia en la implantación, definición de contenidos y funcionalidad y detección de · Necesidades del sistema de información geográfica de indicadores de salud. · Experiencia en el procesamiento de datos de los sistemas de información para evaluaciones y · Cuadro de mando. · Experiencia en la gestión y coordinación de publicaciones. 4-02116202-mcob"
+        },
+        {
+          "codigo": "65039",
+          "denominacion": "Técnico de apoyo",
+          "unidad": "Consejeria Sanidad Viceconsejeria Sanidad Direccion General Salud Pública Subdireccion General Prevención y Promoción de la Salud Area de Promoción de la Salud Unidad Tecnica de Promocion de la Salud Servicio Promocion de la Salud de las Mujeres",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Salud Pública Medicina y Cirugía (Admon E)",
+            "Técnicos y Diplomados Especialistas Asistentes Sociales (Admon E)",
+            "Diplomados de Salud Pública Salud Pública Enfermeria (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Diplomado en trabajo social. · Experiencia en promoción de la salud, especialmente desde una perspectiva de género y de · Desigualdades sociales. · Experiencia en gestión de fondos del pacto de estado contra la violencia de género y en la · Gestión activa en proyectos europeos. · Experiencia en la elaboración, implementación, seguimiento y evaluación de documentos técnicos · Y protocolos relativos a la violencia de género."
+        },
+        {
+          "codigo": "85347",
+          "denominacion": "Técnico de apoyo",
+          "unidad": "Consejeria Sanidad Viceconsejeria Sanidad Direccion General Salud Pública Subdireccion General Prevención y Promoción de la Salud Area de Promoción de la Salud Unidad Tecnica de Prevención de Conductas Adictivas",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Superior de Gestión (Admon G)",
+            "Técnicos Superiores de Salud Pública Medicina y Cirugía (Admon E)",
+            "Diplomados de Salud Pública Salud Pública Enfermeria (Admon E)",
+            "Técnicos y Diplomados Especialistas Asistentes Sociales (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en programas de salud pública, especialmente en prevención de enfermedades y · Adicciones. · Experiencia en materia de adicciones. · Experiencia en la gestión de contratos o subvenciones. · Formación de postgrado en ciencias de la salud."
+        },
+        {
+          "codigo": "800343",
+          "denominacion": "Serv. adquisicion de vacunas",
+          "unidad": "Consejeria Sanidad Viceconsejeria Sanidad Direccion General Salud Pública Subdireccion General Prevención y Promoción de la Salud Area de Prevención Unidad Tecnica de Gestion de Programas de Vacunacion Servicio de Adquisición de Vacunas",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "29.304,60 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Salud Pública Medicina y Cirugía (Admon E)",
+            "Técnicos Superiores de Salud Pública Farmacia (Admon E)",
+            "Diplomados de Salud Pública Salud Pública Enfermeria (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en gestión e implementación de programas de vacunación. · Experiencia en manejo de sistemas de información sanitaria, particularmente en vacunación y · Aplicaciones estadísticas. · Experiencia en gestión de stocks y control de distribución de productos sanitarios, en · Particular vacunas. · Actividad docente en materia de vacunación y participación en foros técnico-científicos · Relacionados con la vacunación."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/20/BOCM-20261120-4.PDF"
+  },
+  {
+    "cve": "BOCM-20261120-5",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE SANIDAD",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden 1805/2026, de 12 de noviembre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Sanidad, por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 28, Nivel CD 27",
+      "plazas": "4 puestos",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "7798",
+          "denominacion": "Jefe de unidad tecnica de registros e informes en sanidad ambiental y mortuoria",
+          "unidad": "Consejeria Sanidad Viceconsejeria Sanidad Direccion General Salud Pública Subdireccion General Seguridad Alimentaria y Sanidad Ambiental Area de Sanidad Ambiental Unidad Tecnica Registros e Informes en Sanidad Ambiental y Mortuoria",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "28",
+          "especifico": "33.940,56 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Salud Pública Medicina y Cirugía (Admon E)",
+            "Técnicos Superiores de Salud Pública Farmacia (Admon E)",
+            "Técnicos Superiores de Salud Pública Veterinaria (Admon E)",
+            "Técnicos Superiores de Salud Pública C.experimentales (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en dirección y coordinación de equipos de trabajo. · Experiencia en elaboración y evaluación de programas de sanidad ambiental y mortuoria. · Experiencia en la elaboración y coordinación de procedimientos de instrucciones en el ámbito de · La sanidad ambiental y mortuoria. · Experiencia en manejo de sistemas de información en sanidad ambiental y mortuoria."
+        },
+        {
+          "codigo": "25337",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Consejeria Sanidad Viceconsejeria Sanidad Direccion General Salud Pública Subdireccion General Seguridad Alimentaria y Sanidad Ambiental Area de Sanidad Ambiental",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "27",
+          "especifico": "30.676,20 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Salud Pública Farmacia (Admon E)",
+            "Técnicos Superiores de Salud Pública Veterinaria (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en elaboración y evaluación de programas de sanidad ambiental. · Experiencia en la elaboración y coordinación de procedimientos, instrucciones y/o documentos · Técnicos relacionados con la sanidad ambiental. · Experiencia en el diseño y coordinación de sistemas de información en el ámbito de la sanidad · Ambiental. · Experiencia en coordinación de grupos de trabajo."
+        },
+        {
+          "codigo": "51417",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Consejeria Sanidad Viceconsejeria Sanidad Direccion General Salud Pública División de Coordinacion Administrativa Area de Régimen Jurídico",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "28",
+          "especifico": "31.585,68 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en la tramitación de expedientes relativos a la elaboración, aprobación y · Seguimiento de disposiciones normativas y convenios en materia de salud pública. · Experiencia en el análisis, tramitación y elaboración de propuestas de respuesta a consultas, · Reclamaciones y otras cuestiones de carácter jurídico formuladas ante la dirección general · De salud pública. · Experiencia en la elaboración de informes y en el asesoramiento técnico-jurídico en materias · Relacionadas con la salud pública. · Experiencia en el diseño, elaboración y supervisión de protocolos y procedimientos dirigidos a la · Homogeneización de criterios y a la optimización de la gestión interna."
+        },
+        {
+          "codigo": "61115",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Consejeria Sanidad Viceconsejeria Sanidad Direccion General Salud Pública División de Coordinacion Administrativa Area de Régimen Jurídico",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "28",
+          "especifico": "31.585,68 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Salud Pública Medicina y Cirugía (Admon E)",
+            "Técnicos Superiores de Salud Pública Farmacia (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en la gestión y tramitación de expedientes en materia de personal y en la · Participación en juntas de méritos. · Experiencia en la tramitación de expedientes relativos a la elaboración y aprobación de · Disposiciones normativas y convenios en materia de salud pública. · Experiencia en la tramitación, análisis y elaboración de propuestas de respuesta a consultas y · Reclamaciones formuladas ante la dirección general de salud pública. · Experiencia en la gestión, tramitación y supervisión de expedientes de asuntos generales y · Régimen interior."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/20/BOCM-20261120-5.PDF"
+  },
+  {
+    "cve": "BOCM-20261120-6",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE SANIDAD",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden 1806/2026, de 11 de noviembre, de la Consejera de Sanidad, por la que se aprueba convocatoria pública para la provisión de puestos de trabajo vacantes en la Consejería de Sanidad por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 26",
+      "plazas": "3 puestos",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "50202",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Consejeria Sanidad Viceconsejeria Sanidad Direccion General Salud Pública Subdireccion General Prevención y Promoción de la Salud Area de Promoción de la Salud Unidad Tecnica de Prevención de Conductas Adictivas",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Salud Pública Psicologia (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en programas de salud pública, especialmente en prevención de enfermedades y · Adicciones. · Experiencia en materia de adicciones. · Experiencia en la gestión de contratos o subvenciones. · Formación de postgrado en ciencias de la salud."
+        },
+        {
+          "codigo": "58149",
+          "denominacion": "Serv. promocion de la salud de las mujeres",
+          "unidad": "Consejeria Sanidad Viceconsejeria Sanidad Direccion General Salud Pública Subdireccion General Prevención y Promoción de la Salud Area de Promoción de la Salud Unidad Tecnica de Promocion de la Salud Servicio Promocion de la Salud de las Mujeres",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "26",
+          "especifico": "30.682,92 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Técnicos Superiores de Salud Pública Medicina y Cirugía (Admon E)",
+            "Técnicos Superiores de Salud Pública Farmacia (Admon E)",
+            "Equivalente"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en salud pública. · Experiencia en promoción de la salud de las mujeres. · Experiencia en la gestión de contratos, subvenciones u otras tramitaciones. · Publicaciones científicas, ponencias y comunicaciones a congresos en materia de promoción de · La salud y salud pública."
+        },
+        {
+          "codigo": "800161",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Consejeria Sanidad Viceconsejeria Sanidad Direccion General Salud Pública Subdireccion General Vigilancia en Salud Pública Area de Vigilancia y Control de Enfermedades Transmisibles",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Salud Pública Medicina y Cirugía (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Especialista en medicina preventiva y salud pública. · Experiencia en gestión de la información epidemiológica relacionada con las enfermedades · Raras. · Experiencia en coordinación a nivel técnico con instituciones sanitarias regionales o con el · Nivel nacional para la vigilancia de las enfermedades raras y su notificación a nivel nacional. · Experiencia en codificación para el soporte de sistemas de información relacionados con · Enfermedades raras. · Experiencia en elaboración de informes epidemiológicos sobre enfermedades raras en la · Comunidad de madrid."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/20/BOCM-20261120-6.PDF"
+  },
+  {
+    "cve": "BOCM-20261120-13",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "UNIVERSIDAD CARLOS III",
+    "suborganismo": "",
+    "tipo": "Concurso de méritos",
+    "texto": "Resolución de 12 de noviembre de 2026, de la Universidad Carlos III de Madrid, de fecha de firma electrónica, por la que se anuncia la convocatoria de concurso específico de méritos para la provisión de un puesto de trabajo de personal técnico de gestión, y de administración y servicios funcionario adscrito a los Subgrupos A2/C1 en esta Universidad",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "No consta en el texto",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/20/BOCM-20261120-13.PDF"
+  },
+  {
+    "cve": "BOCM-20261120-59",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Velilla de San Antonio",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Velilla de San Antonio. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "concurso-oposición, turno libre",
+      "plazo": "veinte días naturales desde el siguiente a la publicación del extracto de la convocatoria en el “Boletín Oficial del Estado”"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/20/BOCM-20261120-59.PDF"
+  }
+]
