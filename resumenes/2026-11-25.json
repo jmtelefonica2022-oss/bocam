@@ -1,0 +1,282 @@
+[
+  {
+    "cve": "BOCM-20261125-2",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 16 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Agricultura e Interior, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 28",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "88008",
+          "denominacion": "Consejeria tecnico de apoyo agricultura viceconsejeria agricultura territorio direccion energética subdireccion ambiental area contaminación unidad modificaciones",
+          "unidad": "Medio Ambiente, e Interior Medio Ambiente, y Ordenación del General Transición y Economía Circular General Impacto Control Integrado de la Tecnica de e Informes",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "28",
+          "especifico": "31.585,68 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Ingenieros y Arquitectos Superiores Ingeniería Superior Ind.energia y Minas (Admon E)",
+            "Técnicos Superiores Medioambientales (Admon E)",
+            "Equivalente"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Exper. en evaluac.y redacc.de informes ambientales de actividades · Incluidas en el real decreto legislat. 1/2016, de 16 de dic, por el que se · Aprueba el texto refundido de la ley de prevención y control integrado de · La contaminación. · Experiencia en la aplicación de la normativa de medio ambiente. · Experiencia en el manejo de aplicaciones informáticas relacionadas con la · Tramitación de expedientes administrativos. · Experiencia en coordinación de equipos de personal técnico."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/25/BOCM-20261125-2.PDF"
+  },
+  {
+    "cve": "BOCM-20261125-3",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 16 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Agricultura e Interior, de conformidad con el artículo 55 de la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 28",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "95078",
+          "denominacion": "Consejeria tecnico de apoyo agricultura viceconsejeria agricultura territorio direccion energética subdireccion y calidad división coordinación entidades",
+          "unidad": "Medio Ambiente, e Interior Medio Ambiente, y Ordenación del General Transición y Economía Circular General Residuos Hídrica de Planificación, y Apoyo a las Locales",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "28",
+          "especifico": "31.585,68 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Vinculado a Cualquier Cuerpo O Escala (Admon A)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Experiencia en gestión de residuos municipales: separación, recogida, · Tratamiento y destino final. · Análisis de resultados e indicadores para el cumplimiento de los objetivos · De economía circular. · Tramitación y seguimiento de subvenciones, convenios y otros instrumentos · De colaboración con entidades locales, con criterios de calidad, · Trazabilidad y control de resultados. · Elaboración de informes técnicos, jurídicos y económicos y gestión de · Expedientes complejos."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/25/BOCM-20261125-3.PDF"
+  },
+  {
+    "cve": "BOCM-20261125-8",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE VIVIENDA, TRANSPORTES E INFRAESTRUCTURAS",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 12 de noviembre de 2026, del Consejero de Vivienda, Transportes e Infraestructuras, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en dicha Consejería (Agencia de Vivienda Social), por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "B/C (equivale a A2/C1)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 22",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "4205",
+          "denominacion": "Jefe de secretaria de alto cargo",
+          "unidad": "Organismo Autonomo Agencia de Vivienda Social de la Comunidad de Madrid",
+          "grupo": "B/C (equivale a A2/C1)",
+          "nivel_cd": "22",
+          "especifico": "14.219,64 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Administrativos de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "PED Y AL - 2TA",
+          "perfil": "Experiencia en organización de reuniones, atención de visitas, planificación de agenda y · Publicación en el portal de transparencia · Experiencia en despacho y gestión de documentación y correspondencia · Experiencia en manejo de las aplicaciones informáticas de registro (e-reg) y portafirmas · Electrónico (ptfr) · Experiencia en manejo del paquete ofimático básico de la comunidad de madrid · Experiencia en la supervisión y validación de documentos contables en la aplicación nexus"
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/25/BOCM-20261125-8.PDF"
+  },
+  {
+    "cve": "BOCM-20261125-10",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE MEDIO AMBIENTE, AGRICULTURA E INTERIOR",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden 4549/2026, de 18 de noviembre, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Agricultura e Interior (Agencia de Seguridad y Emergencias Madrid 112), por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "C/D (equivale a C1/C2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 18",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "86627",
+          "denominacion": "Secretaria/o de direccion",
+          "unidad": "Ente Público Agencia de Seguridad y Emergencias Madrid 112 Direccion General Emergencias",
+          "grupo": "C/D (equivale a C1/C2)",
+          "nivel_cd": "18",
+          "especifico": "13.295,16 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Administrativos de Administración General (Admon G)",
+            "Auxiliares de Administración General (Admon G)"
+          ],
+          "localidad": "Pozuelo de Alarcón",
+          "jornada": "P.E.D.Y 2 TARD",
+          "perfil": "Experiencia en el desempeño de tareas de secretaría de dirección y apoyo administrativo a · Órganos directivos. · Experiencia en preparación, tramitación, registro, archivo y seguimiento de documentación · Administrativa. · Experiencia en organización de reuniones, atención de visitas y planificación de agenda. · Conocimiento y manejo de herramientas ofimáticas, aplicaciones corporativas de gestión · Administrativa y sistemas de comunicación, con capacidad de organización, discreción y · Confidencialidad. · Conocimiento en materia de igualdad, violencia de género o prevención de cualquier tipo de · Acoso sexual o por razón de sexo."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/25/BOCM-20261125-10.PDF"
+  },
+  {
+    "cve": "BOCM-20261125-11",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE FAMILIA, JUVENTUD Y ASUNTOS SOCIALES",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden 3883/2026, de 17 de noviembre, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Agencia Madrileña de Atención Social, por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 26",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "17089",
+          "denominacion": "Serv. planificacion y apoyo",
+          "unidad": "Organismo Autonomo Agencia Madrileña de Atención Social Subdireccion General Centros y Programas Servicio Planificación y Apoyo",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "29.304,60 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Técnicos de Gestión de Administración General (Admon G)",
+            "Superior de Gestión (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "IGUAL QUE J",
+          "perfil": "Experiencia en la redacción de instrucciones y procedimientos de trabajo. · Experiencia en la elaboración de pliegos y propuestas de contratación. · Experiencia en la elaboración de informes técnicos y jurídicos. · Experiencia en tramitación, control y seguimiento de expedientes administrativos."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/25/BOCM-20261125-11.PDF"
+  },
+  {
+    "cve": "BOCM-20261125-45",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Alcorcón",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Alcorcón. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "3",
+      "sistema": "concurso de méritos",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/25/BOCM-20261125-45.PDF"
+  },
+  {
+    "cve": "BOCM-20261125-47",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Boadilla del Monte",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Boadilla del Monte. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "oposición, turno libre",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/25/BOCM-20261125-47.PDF"
+  },
+  {
+    "cve": "BOCM-20261125-48",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Buitrago del Lozoya",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Buitrago del Lozoya. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Escala de Administración General; Subescala Técnica",
+      "grupo": "A1",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "concurso-oposición, turno libre",
+      "plazo": "diez días hábiles contado desde el día siguiente al de la publicación de este anuncio en el BOLETÍN OFICIAL DE LA COMUNIDAD DE MADRID, para subsanar el defecto o formular reclamación"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/25/BOCM-20261125-48.PDF"
+  },
+  {
+    "cve": "BOCM-20261125-50",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Getafe",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Getafe. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "Agrupaciones Profesionales (antiguo E)",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "3",
+      "sistema": "concurso-oposición",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/25/BOCM-20261125-50.PDF"
+  }
+]
