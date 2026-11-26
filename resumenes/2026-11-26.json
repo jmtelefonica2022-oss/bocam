@@ -1,0 +1,107 @@
+[
+  {
+    "cve": "BOCM-20261126-2",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES",
+    "suborganismo": "",
+    "tipo": "Concurso de traslados",
+    "texto": "Resolución de 24 de noviembre de 2026, de la Dirección General de Recursos Humanos, por la que corrige error en el anexo 18 incluido en la Resolución de 20 de octubre de 2026, de la Dirección General de Recursos Humanos, por la que se convoca concurso de traslados de ámbito estatal de los Cuerpos de Maestros, Catedráticos, Profesores de Enseñanza Secundaria, Técnicos de Formación Profesional (a extinguir), Especialistas en sectores singulares de Formación Profesional, Escuelas Oficiales de Idiomas, Música y Artes Escénicas, y Profesores y Maestros de Taller de Artes Plásticas y Diseño",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "No consta en el texto",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/26/BOCM-20261126-2.PDF"
+  },
+  {
+    "cve": "BOCM-20261126-46",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Alcobendas",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Alcobendas. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Escala de Administración General; Escala Administración General; Subescala Administrativo; categoría de Administrativo/a",
+      "grupo": "C1, C2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "2",
+      "sistema": "No consta en el texto",
+      "plazo": "DIEZ días HÁBILES contados a partir del siguiente a la publicación de la resolución, a fin de subsanar el defecto que haya motivado su exclusión o su no inclusión expresa"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/26/BOCM-20261126-46.PDF"
+  },
+  {
+    "cve": "BOCM-20261126-54",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Fuenlabrada",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Fuenlabrada. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "categoría Arquitecto/a Técnico/a; categoría Trabajador/a Social; categoría Administrativo/a; categoría Operario/a Limpieza Viaria",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "3, 7, 15",
+      "sistema": "concurso-oposición",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/26/BOCM-20261126-54.PDF"
+  },
+  {
+    "cve": "BOCM-20261126-59",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Loeches",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Loeches. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "comisión de servicios",
+      "plazo": "cinco días hábiles a partir de la publicación del anuncio de la convocatoria en el BOLETÍN OFICIAL DE LA CO- MUNIDAD DE MADRID"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/26/BOCM-20261126-59.PDF"
+  },
+  {
+    "cve": "BOCM-20261126-66",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Paracuellos de Jarama",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Paracuellos de Jarama. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Escala Administración Especial; Subescala de Servicios Especiales; Clase Policía",
+      "grupo": "C1",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "concurso de méritos",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/26/BOCM-20261126-66.PDF"
+  }
+]
