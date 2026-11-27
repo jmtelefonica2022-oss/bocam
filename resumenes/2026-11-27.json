@@ -1,0 +1,328 @@
+[
+  {
+    "cve": "BOCM-20261127-1",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Convocatoria proceso selectivo",
+    "texto": "Orden 2534/2026, de 12 de noviembre, de la Consejería de Economía, Hacienda y Empleo, por la que se convocan pruebas selectivas para el ingreso, por el sistema general de acceso libre y por promoción interna, en el Cuerpo de Técnicos Auxiliares, Escala de Auxiliares de Archivos, Bibliotecas y Museos, de Administración Especial, Grupo C, Subgrupo C1, de la Comunidad de Madrid",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Cuerpo de Técnicos Auxiliares; Escala de Auxiliares de Archivos; Cuerpo de Técnicos Auxiliares de Archivos; categoría profesional de Técnico Especialista I",
+      "grupo": "C1, C2, Grupo III (laboral), Nivel 6, Área A, Grupo III (laboral), Nivel 5, Área A",
+      "nivel_educativo": "",
+      "nivel": "Nivel 6, Nivel 5",
+      "plazas": "4, 2",
+      "sistema": "promoción interna, turno libre",
+      "plazo": "veinte días hábiles contados a partir del siguiente a la publicación de la presente orden en el BO- LETÍN OFICIAL DE LA COMUNIDAD DE MADRID"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/27/BOCM-20261127-1.PDF"
+  },
+  {
+    "cve": "BOCM-20261127-2",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 19 de noviembre de 2026, de la Consejera de Economía, Hacienda y Empleo, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Economía, Hacienda y Empleo, por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A (equivale a A1)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 28",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "37716",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Consejeria Economía, Hacienda y Empleo Viceconsejeria Economía y Empleo Direccion General Servicio Público de Empleo Subdireccion General Estrategia y Evaluación de las Políticas de Empleo Area de Análisis y Estrategia",
+          "grupo": "A (equivale a A1)",
+          "nivel_cd": "28",
+          "especifico": "31.585,68 €",
+          "procedencia": "COMUNIDAD DE MADRID",
+          "cuerpos": [
+            "Técnicos Superiores Especialistas Superior de Empleo (Admon E)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Planificación, elaboración, contratación y gestión de estudios de mercado de trabajo. · Evaluación de políticas públicas, coordinación de planes de evaluación, definición de · Indicadores de seguimiento. · Asesoramiento técnico en la evaluación de programas de empleo · Coordinación y relaciones institucionales con otras administraciones, en materia de evaluación · De mercado de trabajo"
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/27/BOCM-20261127-2.PDF"
+  },
+  {
+    "cve": "BOCM-20261127-6",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE ECONOMÍA, HACIENDA Y EMPLEO",
+    "suborganismo": "",
+    "tipo": "Bolsa única personal laboral",
+    "texto": "Resolución de 18 de noviembre de 2026, de la Dirección General de Función Pública, por la que se aprueba y publica la constitución del primer bloque de la bolsa única permanentemente abierta a efectos de contrataciones temporales de la categoría profesional de Técnico Especialista en Artes Gráficas (Grupo III, Nivel 6, Área B) de la Comunidad de Madrid",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "categoría profesional de Técnico Especialista en Artes Gráficas",
+      "grupo": "Grupo III (laboral), Nivel 6, Área B",
+      "nivel_educativo": "",
+      "nivel": "Nivel 6",
+      "plazas": "No consta en el texto",
+      "sistema": "bolsa de empleo, estabilización, turno libre",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/27/BOCM-20261127-6.PDF"
+  },
+  {
+    "cve": "BOCM-20261127-7",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE DIGITALIZACIÓN",
+    "suborganismo": "de la Comunidad de Madrid",
+    "tipo": "Comisión proceso selectivo",
+    "texto": "Resolución 782/2026, de 25 de noviembre, de la Consejera Delegada de la Agencia para la Administración Digital de la Comunidad de Madrid, por la que se modifica la Resolución 362/2026, se amplía el número de vocales de las comisiones de selección del proceso selectivo convocado mediante resolución 256/2026, de 23 de abril, y se establecen determinadas reglas para su funcionamiento",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "turno libre",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/27/BOCM-20261127-7.PDF"
+  },
+  {
+    "cve": "BOCM-20261127-8",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE DIGITALIZACIÓN",
+    "suborganismo": "Agencia de Ciberseguridad de la Comunidad de Madrid",
+    "tipo": "Convocatoria proceso selectivo",
+    "texto": "Resolución 1103/2026, de 25 de noviembre, del Consejero Delegado de la Agencia de Ciberseguridad de la Comunidad de Madrid, por la que se amplía el plazo de presentación de solicitudes del proceso selectivo convocado por Resolución 1101/2026, de 3 de noviembre, para la selección de personal laboral ordinario indefinido (laboral fijo) de perfiles técnicos de ciberseguridad y de perfiles administrativos y de gestión",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "No consta en el texto",
+      "plazo": "doce días hábiles"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/27/BOCM-20261127-8.PDF"
+  },
+  {
+    "cve": "BOCM-20261127-9",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE EDUCACIÓN, CIENCIA Y UNIVERSIDADES",
+    "suborganismo": "",
+    "tipo": "Concurso de traslados",
+    "texto": "Resolución de 26 de noviembre de 2026, de la Dirección General de Recursos Humanos, por la que corrige error en el Anexo 15, incluido en la Resolución de 20 de octubre de 2026, de la Dirección General de Recursos Humanos, por la que se convoca concurso de traslados de ámbito estatal de los Cuerpos de Maestros, Catedráticos, Profesores de Enseñanza Secundaria, Técnicos de Formación Profesional (a extinguir), Especialistas en sectores singulares de Formación Profesional, Escuelas Oficiales de Idiomas, Música y Artes Escénicas y Profesores y Maestros de Taller de Artes Plásticas y Diseño",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "No consta en el texto",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/27/BOCM-20261127-9.PDF"
+  },
+  {
+    "cve": "BOCM-20261127-10",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE SANIDAD",
+    "suborganismo": "Fundación para la Investigación Biomédica",
+    "tipo": "Convocatoria proceso selectivo",
+    "texto": "Resolución de 18 de noviembre de 2026, de la Directora de la Fundación de Investigación Biomédica del Hospital Universitario “La Princesa”, por la que se anuncia la cobertura mediante convocatoria pública de dos plazas de personal laboral fijo, en la categoría “Titulado/a Superior Senior, Grupo II, Área 3, Controller económico, proyectos públicos” y “Titulado/a Superior, Grupo II, Área 2, Gestor de Innovación”",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "categoría Titulado/a Superior Senior",
+      "grupo": "Grupo II (laboral)",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "2",
+      "sistema": "No consta en el texto",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/27/BOCM-20261127-10.PDF"
+  },
+  {
+    "cve": "BOCM-20261127-16",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE MEDIO AMBIENTE, AGRICULTURA E INTERIOR",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden 4635/2026, de 20 de noviembre, del Consejero de Medio Ambiente, Agricultura e Interior, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Medio Ambiente, Agricultura e Interior, por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 26",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "30109",
+          "denominacion": "Serv. contratacion de consorcios urbanisticos",
+          "unidad": "Consejeria Medio Ambiente, Agricultura e Interior Viceconsejeria Medio Ambiente, Agricultura y Ordenación del Territorio Direccion General Suelo Subdireccion General Consorcios Urbanísticos División Consorcios Urbanísticos Area Contratación de Consorcios Urbanísticos Servicio Contratación de Consorcios Urbanísticos",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "29.304,60 €",
+          "procedencia": "COMUNIDAD DE",
+          "cuerpos": [
+            "Madrid/admon.estado/ccaa/admon.loca Lvinculado a Cualquier Cuerpo O Escala"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Licenciatura en derecho o titulación equivalente. · Experiencia en tramitación de expedientes de contratación · Experiencia en el manejo de licit@ y en el manejo del sistema institucional para la contratación · Pública (nexus-contratación) · Experiencia en materia de protección de datos."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/27/BOCM-20261127-16.PDF"
+  },
+  {
+    "cve": "BOCM-20261127-17",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "CONSEJERÍA DE FAMILIA, JUVENTUD Y ASUNTOS SOCIALES",
+    "suborganismo": "",
+    "tipo": "Puesto libre designación",
+    "texto": "Orden de 19 de noviembre de 2026, de la Consejera de Familia, Juventud y Asuntos Sociales, por la que se aprueba convocatoria pública para la provisión de un puesto de trabajo vacante en la Consejería de Familia, Juventud y Asuntos Sociales por el procedimiento de Libre Designación",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "ver cada puesto",
+      "grupo": "A/B (equivale a A1/A2)",
+      "nivel_educativo": "",
+      "nivel": "Nivel CD 26",
+      "plazas": "1 puesto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles a contar desde la fecha de entrada en vigor de esta convocatoria",
+      "puestos": [
+        {
+          "codigo": "47817",
+          "denominacion": "Tecnico de apoyo",
+          "unidad": "Consejeria Familia, Juventud y Asuntos Sociales Viceconsejeria Familia, Juventud y Asuntos Sociales Direccion General Infancia, Familia y Fomento de la Natalidad Subdireccion General Infancia y Adolescencia",
+          "grupo": "A/B (equivale a A1/A2)",
+          "nivel_cd": "26",
+          "especifico": "27.359,88 €",
+          "procedencia": "C. MADRID/ADMON. ESTADO/CCAA",
+          "cuerpos": [
+            "Técnicos y Diplomados Especialistas Asistentes Sociales (Admon E)",
+            "Técnicos Superiores de Administración General (Admon G)",
+            "Técnicos de Gestión de Administración General (Admon G)"
+          ],
+          "localidad": "Madrid",
+          "jornada": "MAÑ.Y 2 TARDES",
+          "perfil": "Exp. en propuestas de contratación, impulso de expedientes, elab. e impulso de convenios y · Seguimiento de contratos y convenios, como centro directivo promotor, y en la gestión y · Tramitación de subvenciones en materia de infancia y adolescencia · Experiencia en la gestión de proyectos financiados con fondos europeos. · Experiencia en la elaboración de informes técnicos en materia de infancia y adolescencia. · Experiencia en la coordinación con recursos comunitarios relacionados con la atención a la · Infancia y la adolescencia y la promoción de sus derechos. · Conocimiento de la normativa y de los procedimientos administrativos en · Materia de infancia y adolescencia."
+        }
+      ]
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/27/BOCM-20261127-17.PDF"
+  },
+  {
+    "cve": "BOCM-20261127-19",
+    "seccion": "I. COMUNIDAD DE MADRID",
+    "subseccion": "B) Autoridades y Personal",
+    "organismo": "UNIVERSIDAD POLITÉCNICA DE MADRID",
+    "suborganismo": "",
+    "tipo": "Concurso cuerpos docentes",
+    "texto": "Resolución de 18 de noviembre de 2026, de la Universidad Politécnica de Madrid, por la que se convocan concursos para la provisión de plazas de personal docente e investigador contratado: Profesor Permanente Laboral",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "3",
+      "sistema": "No consta en el texto",
+      "plazo": "No consta en el texto"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/27/BOCM-20261127-19.PDF"
+  },
+  {
+    "cve": "BOCM-20261127-51",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Alcobendas",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Alcobendas. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "A2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "1",
+      "sistema": "oposición, turno libre",
+      "plazo": "veinte días hábiles contados a partir del siguiente al de la publicación en el “Boletín Oficial del Estado” de la convocatoria"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/27/BOCM-20261127-51.PDF"
+  },
+  {
+    "cve": "BOCM-20261127-58",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Collado Mediano",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Collado Mediano. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "No consta en el texto",
+      "grupo": "No consta en el texto",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "2",
+      "sistema": "concurso-oposición",
+      "plazo": "cinco días hábiles desde la publicación en el BOCM, para la presentación de alegaciones y/o subsanación de documentación"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/27/BOCM-20261127-58.PDF"
+  },
+  {
+    "cve": "BOCM-20261127-67",
+    "seccion": "III. ADMINISTRACIÓN LOCAL",
+    "subseccion": "",
+    "organismo": "Ayuntamiento de Paracuellos de Jarama",
+    "suborganismo": "",
+    "tipo": "Ofertas de empleo. Proceso selectivo",
+    "texto": "Paracuellos de Jarama. Ofertas de empleo. Proceso selectivo",
+    "vacante": true,
+    "detalle": {
+      "fuente": "regex",
+      "cuerpo": "Cuerpo de Policía Local; Escala Administración Especial; Subescala de Servicios Especiales",
+      "grupo": "A2",
+      "nivel_educativo": "",
+      "nivel": "No consta en el texto",
+      "plazas": "No consta en el texto",
+      "sistema": "libre designación",
+      "plazo": "quince días hábiles contados a partir del día siguiente a la publicación de la convocatoria en el “Boletín Oficial del Estado”"
+    },
+    "url": "https://www.bocm.es/boletin/CM_Orden_BOCM/2026/11/27/BOCM-20261127-67.PDF"
+  }
+]
